@@ -1,0 +1,1011 @@
+Order ID,Order Date,Customer Name,Product,Category,Quantity,Price,Sales,City,Payment Method
+10001,2025-05-21,Customer_63,Smartphone,Electronics,1,25000,25000,,Cash
+10002,2025-02-14,Customer_152,Smartphone,Electronics,5,25000,125000,Trichy,UPI
+10003,2025-04-22,Customer_60,Laptop,Electronics,1,55000,55000,Salem,UPI
+10004,2025-11-29,Customer_180,Watch,Accessories,2,3000,6000,Salem,Net Banking
+10005,2025-10-29,Customer_72,Keyboard,Accessories,4,1200,4800,Chennai,Cash
+10006,2025-05-23,Customer_40,T-Shirt,Fashion,3,700,2100,Coimbatore,Card
+10007,2025-07-14,Customer_25,Smartphone,Electronics,1,25000,25000,Madurai,Card
+10008,2025-01-23,Customer_187,Books,Education,3,500,1500,Trichy,UPI
+10009,2025-10-10,Customer_76,T-Shirt,Fashion,1,700,700,Erode,Card
+10010,2025-12-27,Customer_18,Books,Education,2,500,1000,Chennai,Cash
+10011,2025-04-30,Customer_222,Mouse,Accessories,1,800,800,Chennai,Net Banking
+10012,2025-11-22,Customer_214,Mouse,Accessories,4,800,3200,Madurai,Cash
+10013,2025-04-18,Customer_172,Shoes,Fashion,3,1800,5400,Madurai,UPI
+10014,2025-10-01,Customer_187,Books,Education,2,500,1000,Coimbatore,Cash
+10015,2025-05-19,Customer_237,Backpack,Bags,4,1500,6000,Erode,Cash
+10016,2025-04-28,Customer_211,Shoes,Fashion,1,1800,1800,Chennai,Card
+10017,2025-02-03,Customer_55,T-Shirt,Fashion,3,700,2100,Salem,Card
+10018,2025-07-22,Customer_227,Keyboard,Accessories,4,1200,4800,Erode,Net Banking
+10019,2025-03-13,Customer_64,Headphones,Electronics,3,2000,6000,Erode,Card
+10020,2025-10-26,Customer_103,Books,Education,4,500,2000,,Cash
+10021,2025-09-10,Customer_24,Headphones,Electronics,5,2000,10000,Chennai,UPI
+10022,2025-12-15,Customer_109,Headphones,Electronics,2,2000,4000,Salem,UPI
+10023,2025-11-02,Customer_120,T-Shirt,Fashion,4,700,2800,Salem,Card
+10024,2025-12-15,Customer_185,Watch,Accessories,1,3000,3000,Chennai,Card
+10025,2025-05-31,Customer_112,Shoes,Fashion,1,1800,1800,Coimbatore,Net Banking
+10026,2025-09-14,Customer_196,Laptop,Electronics,3,55000,165000,Coimbatore,UPI
+10027,2025-11-08,Customer_51,Mouse,Accessories,5,800,4000,Coimbatore,Card
+10028,2025-09-29,Customer_236,Headphones,Electronics,5,2000,10000,Chennai,Card
+10029,2025-02-27,Customer_238,Backpack,Bags,1,1500,1500,Madurai,Card
+10030,2025-05-04,Customer_225,Keyboard,Accessories,1,1200,1200,Salem,UPI
+10031,2025-02-05,Customer_195,Smartphone,Electronics,4,25000,100000,Salem,Cash
+10032,2025-10-09,Customer_43,Headphones,Electronics,4,2000,8000,Madurai,Net Banking
+10033,2025-12-20,Customer_52,Keyboard,Accessories,5,1200,6000,Erode,Card
+10034,2025-08-13,Customer_231,T-Shirt,Fashion,3,700,2100,Salem,Net Banking
+10035,2025-04-26,Customer_17,Smartphone,Electronics,2,25000,50000,Madurai,UPI
+10036,2025-04-28,Customer_151,Books,Education,5,500,2500,Coimbatore,UPI
+10037,2025-04-28,Customer_18,Smartphone,Electronics,1,25000,25000,Chennai,Card
+10038,2025-05-02,Customer_72,Smartphone,Electronics,5,25000,125000,Erode,Net Banking
+10039,2025-03-09,Customer_186,Keyboard,Accessories,5,1200,6000,Salem,Net Banking
+10040,2025-07-28,Customer_49,Keyboard,Accessories,4,1200,4800,Chennai,UPI
+10041,2025-08-05,Customer_106,T-Shirt,Fashion,3,700,2100,Trichy,UPI
+10042,2025-07-26,Customer_187,Smartphone,Electronics,1,25000,25000,Madurai,UPI
+10043,2025-04-08,Customer_138,Keyboard,Accessories,2,1200,2400,Trichy,Cash
+10044,2025-05-23,Customer_119,T-Shirt,Fashion,2,700,1400,Coimbatore,UPI
+10045,2025-02-20,Customer_13,Backpack,Bags,5,1500,7500,Erode,UPI
+10046,2025-03-27,Customer_105,Smartphone,Electronics,2,25000,50000,Trichy,Net Banking
+10047,2025-01-31,Customer_43,Keyboard,Accessories,4,1200,4800,Trichy,UPI
+10048,2025-08-21,Customer_74,T-Shirt,Fashion,3,700,2100,Trichy,Net Banking
+10049,2025-06-01,Customer_56,Headphones,Electronics,2,2000,4000,Chennai,UPI
+10050,2025-01-26,Customer_150,Shoes,Fashion,1,1800,1800,Trichy,Cash
+10051,2025-02-11,Customer_218,Laptop,Electronics,5,55000,275000,Coimbatore,UPI
+10052,2025-12-12,Customer_221,Books,Education,1,500,500,Coimbatore,Net Banking
+10053,2025-05-07,Customer_149,Smartphone,Electronics,5,25000,125000,Salem,UPI
+10054,2025-08-03,Customer_169,Books,Education,1,500,500,Salem,Card
+10055,2025-12-09,Customer_184,Mouse,Accessories,2,800,1600,Madurai,Cash
+10056,2025-03-09,Customer_172,Mouse,Accessories,4,800,3200,Erode,Card
+10057,2025-02-07,Customer_3,Backpack,Bags,3,1500,4500,Trichy,UPI
+10058,2025-04-20,Customer_130,Smartphone,Electronics,5,25000,125000,Madurai,Cash
+10059,2025-05-06,Customer_95,Shoes,Fashion,1,1800,1800,Madurai,Cash
+10060,2025-12-27,Customer_78,Backpack,Bags,5,1500,7500,Salem,UPI
+10061,2025-12-06,Customer_27,Watch,Accessories,3,3000,9000,Coimbatore,Card
+10062,2025-10-11,Customer_40,Smartphone,Electronics,1,25000,25000,Madurai,Card
+10063,2025-06-25,Customer_53,Books,Education,2,500,1000,Erode,Card
+10064,2025-05-09,Customer_232,Watch,Accessories,4,3000,12000,Chennai,UPI
+10065,2025-01-23,Customer_1,T-Shirt,Fashion,3,700,2100,Madurai,
+10066,2025-08-15,Customer_142,Mouse,Accessories,2,800,1600,Erode,Net Banking
+10067,2025-02-27,Customer_20,Watch,Accessories,1,3000,3000,Erode,Cash
+10068,2025-07-09,Customer_150,Watch,Accessories,1,3000,3000,Salem,Cash
+10069,2025-01-22,Customer_79,T-Shirt,Fashion,2,700,1400,Madurai,UPI
+10070,2025-12-16,Customer_64,Shoes,Fashion,2,1800,3600,Erode,UPI
+10071,2025-07-28,Customer_250,Shoes,Fashion,5,1800,9000,Salem,Cash
+10072,2025-04-01,Customer_226,Keyboard,Accessories,2,1200,2400,Trichy,UPI
+10073,2025-07-30,Customer_206,Headphones,Electronics,3,2000,6000,Erode,Cash
+10074,2025-12-26,Customer_28,Mouse,Accessories,2,800,1600,Trichy,UPI
+10075,2025-04-13,Customer_210,Backpack,Bags,2,1500,3000,Trichy,Card
+10076,2025-04-25,Customer_7,Mouse,Accessories,2,800,1600,Erode,Cash
+10077,2025-05-23,Customer_222,T-Shirt,Fashion,3,700,2100,Chennai,Card
+10078,2025-07-24,Customer_174,Shoes,Fashion,5,1800,9000,Salem,Card
+10079,2025-05-14,Customer_46,Laptop,Electronics,1,55000,55000,Salem,Card
+10080,2025-11-02,Customer_112,Laptop,Electronics,1,55000,55000,Madurai,Card
+10081,2025-09-19,Customer_30,T-Shirt,Fashion,5,700,3500,Trichy,Cash
+10082,2025-12-29,Customer_112,Mouse,Accessories,1,800,800,Chennai,Cash
+10083,2025-02-05,Customer_243,Shoes,Fashion,4,1800,7200,Erode,Card
+10084,2025-12-06,Customer_218,Books,Education,3,500,1500,Chennai,Card
+10085,2025-12-08,Customer_105,Watch,Accessories,3,3000,9000,Madurai,Net Banking
+10086,2025-03-07,Customer_50,Mouse,Accessories,5,800,4000,Trichy,Net Banking
+10087,2025-10-19,Customer_78,Headphones,Electronics,5,2000,10000,Trichy,UPI
+10088,2025-04-18,Customer_111,Mouse,Accessories,3,800,2400,Salem,Card
+10089,2025-08-15,Customer_173,Backpack,Bags,4,1500,6000,Coimbatore,Net Banking
+10090,2025-05-26,Customer_132,Headphones,Electronics,1,2000,2000,Erode,Card
+10091,2025-12-11,Customer_80,Smartphone,Electronics,2,25000,50000,Coimbatore,Cash
+10092,2025-01-24,Customer_63,Headphones,Electronics,1,2000,2000,Trichy,UPI
+10093,2025-11-19,Customer_148,Backpack,Bags,4,1500,6000,Coimbatore,Net Banking
+10094,2025-05-05,Customer_38,Backpack,Bags,4,1500,6000,Erode,UPI
+10095,2025-04-23,Customer_46,Smartphone,Electronics,4,25000,100000,Erode,Net Banking
+10096,2025-05-08,Customer_235,Laptop,Electronics,5,55000,275000,Chennai,Net Banking
+10097,2025-12-08,Customer_136,Headphones,Electronics,4,2000,8000,Salem,Card
+10098,2025-09-16,Customer_110,Backpack,Bags,5,1500,7500,Salem,Net Banking
+10099,2025-08-19,Customer_67,Headphones,Electronics,4,2000,8000,Coimbatore,Card
+10100,2025-11-17,Customer_62,Watch,Accessories,4,3000,12000,Madurai,Net Banking
+10101,2025-05-01,Customer_70,Smartphone,Electronics,3,25000,75000,Madurai,Card
+10102,2025-03-12,Customer_39,Watch,Accessories,1,3000,3000,Coimbatore,Net Banking
+10103,2025-02-02,Customer_107,Headphones,Electronics,2,2000,4000,Trichy,Card
+10104,2025-08-01,Customer_16,Watch,Accessories,4,3000,12000,Coimbatore,Net Banking
+10105,2025-12-23,Customer_6,T-Shirt,Fashion,5,700,3500,Salem,Net Banking
+10106,2025-06-30,Customer_77,Backpack,Bags,1,1500,1500,Trichy,Net Banking
+10107,2025-11-05,Customer_230,Watch,Accessories,5,3000,15000,Coimbatore,Net Banking
+10108,2025-08-12,Customer_125,Keyboard,Accessories,3,1200,3600,Chennai,Net Banking
+10109,2025-03-26,Customer_216,Shoes,Fashion,4,1800,7200,Trichy,Cash
+10110,2025-01-14,Customer_233,Books,Education,5,500,2500,Trichy,UPI
+10111,2025-03-11,Customer_222,Smartphone,Electronics,4,25000,100000,Trichy,Cash
+10112,2025-07-14,Customer_84,Laptop,Electronics,3,55000,165000,Coimbatore,Net Banking
+10113,2025-07-14,Customer_72,Shoes,Fashion,3,1800,5400,Trichy,Card
+10114,2025-01-10,Customer_192,Smartphone,Electronics,4,25000,100000,Salem,UPI
+10115,2025-11-29,Customer_18,Shoes,Fashion,2,1800,3600,Erode,UPI
+10116,2025-04-13,Customer_215,Laptop,Electronics,2,55000,110000,Chennai,Cash
+10117,2025-08-31,Customer_172,Keyboard,Accessories,2,1200,2400,Chennai,Cash
+10118,2025-07-08,Customer_43,Backpack,Bags,3,1500,4500,Salem,UPI
+10119,2025-02-25,Customer_149,Headphones,Electronics,3,2000,6000,Chennai,Card
+10120,2025-07-23,Customer_242,Books,Education,4,500,2000,Erode,Cash
+10121,2025-12-20,Customer_213,Smartphone,Electronics,5,25000,125000,Erode,Cash
+10122,2025-12-17,Customer_154,Smartphone,Electronics,3,25000,75000,Chennai,UPI
+10123,2025-08-08,Customer_170,Shoes,Fashion,5,1800,9000,Madurai,UPI
+10124,2025-01-07,Customer_218,Watch,Accessories,3,3000,9000,Trichy,Net Banking
+10125,2025-07-05,Customer_163,Smartphone,Electronics,4,25000,100000,Trichy,Cash
+10126,2025-09-25,Customer_248,T-Shirt,Fashion,2,700,1400,Erode,Card
+10127,2025-09-05,Customer_120,Books,Education,5,500,2500,Trichy,Card
+10128,2025-02-14,Customer_72,Shoes,Fashion,2,1800,3600,Trichy,Cash
+10129,2025-11-09,Customer_172,Backpack,Bags,5,1500,7500,Trichy,Card
+10130,2025-06-16,Customer_47,Laptop,Electronics,4,55000,220000,Trichy,Cash
+10131,2025-06-24,Customer_72,Shoes,Fashion,3,1800,5400,Salem,Card
+10132,2025-09-22,Customer_243,Watch,Accessories,1,3000,3000,Coimbatore,UPI
+10133,2025-09-08,Customer_143,Keyboard,Accessories,4,1200,4800,Coimbatore,Net Banking
+10134,2025-01-09,Customer_24,Backpack,Bags,4,1500,6000,Madurai,Cash
+10135,2025-06-06,Customer_170,T-Shirt,Fashion,2,700,1400,Salem,Card
+10136,2025-09-29,Customer_89,Backpack,Bags,5,1500,7500,Trichy,Card
+10137,2025-05-19,Customer_79,Shoes,Fashion,4,1800,7200,Madurai,Cash
+10138,2025-06-11,Customer_31,Smartphone,Electronics,2,25000,50000,Erode,Cash
+10139,2025-09-05,Customer_71,Keyboard,Accessories,2,1200,2400,Erode,Card
+10140,2025-06-01,Customer_59,Smartphone,Electronics,2,25000,50000,Madurai,Cash
+10141,2025-12-29,Customer_137,Mouse,Accessories,1,800,800,Coimbatore,Card
+10142,2025-10-11,Customer_75,Laptop,Electronics,1,55000,55000,Erode,Cash
+10143,2025-01-07,Customer_147,Backpack,Bags,1,1500,1500,Madurai,Net Banking
+10144,2025-06-24,Customer_48,Backpack,Bags,4,1500,6000,Chennai,Card
+10145,2025-02-03,Customer_103,Backpack,Bags,1,1500,1500,Trichy,UPI
+10146,2025-03-19,Customer_39,Books,Education,1,500,500,Salem,Card
+10147,2025-03-02,Customer_143,Smartphone,Electronics,2,25000,50000,Trichy,Cash
+10148,2025-08-19,Customer_233,Watch,Accessories,4,3000,12000,Trichy,Card
+10149,2025-06-06,Customer_146,Books,Education,4,500,2000,Salem,UPI
+10150,2025-04-17,Customer_161,Books,Education,1,500,500,Coimbatore,Card
+10151,2025-05-03,Customer_45,Smartphone,Electronics,2,25000,50000,Salem,UPI
+10152,2025-07-29,Customer_116,Headphones,Electronics,1,2000,2000,Erode,Net Banking
+10153,2025-04-29,Customer_74,Mouse,Accessories,1,800,800,Erode,Card
+10154,2025-12-18,Customer_60,Backpack,Bags,1,1500,1500,Madurai,Cash
+10155,2025-10-06,Customer_58,T-Shirt,Fashion,1,700,700,Erode,Cash
+10156,2025-02-06,Customer_16,Mouse,Accessories,2,800,1600,Coimbatore,Card
+10157,2025-05-28,Customer_113,Books,Education,5,500,2500,Chennai,Net Banking
+10158,2025-05-20,Customer_129,Mouse,Accessories,4,800,3200,Salem,Net Banking
+10159,2025-11-03,Customer_11,Backpack,Bags,1,1500,1500,Trichy,Card
+10160,2025-01-14,Customer_24,Books,Education,3,500,1500,Coimbatore,UPI
+10161,2025-01-21,Customer_196,Mouse,Accessories,5,800,4000,Coimbatore,Net Banking
+10162,2025-05-23,Customer_47,Watch,Accessories,4,3000,12000,Salem,Net Banking
+10163,2025-08-29,Customer_90,Backpack,Bags,1,1500,1500,Trichy,Card
+10164,2025-03-24,Customer_85,Shoes,Fashion,1,1800,1800,Trichy,Net Banking
+10165,2025-10-09,Customer_10,Mouse,Accessories,4,800,3200,Trichy,UPI
+10166,2025-06-15,Customer_30,Shoes,Fashion,3,1800,5400,Trichy,UPI
+10167,2025-07-31,Customer_14,Watch,Accessories,4,3000,12000,Coimbatore,Card
+10168,2025-11-17,Customer_114,Books,Education,4,500,2000,Chennai,Cash
+10169,2025-03-09,Customer_238,Mouse,Accessories,5,800,4000,Madurai,Net Banking
+10170,2025-01-15,Customer_250,Backpack,Bags,1,1500,1500,Erode,Cash
+10171,2025-10-10,Customer_4,Headphones,Electronics,3,2000,6000,Salem,Net Banking
+10172,2025-02-28,Customer_119,Smartphone,Electronics,2,25000,50000,Chennai,Cash
+10173,2025-09-18,Customer_181,Backpack,Bags,3,1500,4500,Madurai,Net Banking
+10174,2025-05-05,Customer_117,Backpack,Bags,4,1500,6000,Salem,Cash
+10175,2025-11-03,Customer_131,T-Shirt,Fashion,2,700,1400,Erode,Cash
+10176,2025-08-01,Customer_88,Smartphone,Electronics,3,25000,75000,Salem,Card
+10177,2025-06-02,Customer_215,Laptop,Electronics,3,55000,165000,Salem,Net Banking
+10178,2025-10-03,Customer_124,Headphones,Electronics,4,2000,8000,Madurai,Card
+10179,2025-07-13,Customer_117,Watch,Accessories,5,3000,15000,Madurai,Cash
+10180,2025-07-16,Customer_60,Keyboard,Accessories,5,1200,6000,Trichy,UPI
+10181,2025-12-28,Customer_234,Shoes,Fashion,4,1800,7200,Trichy,Net Banking
+10182,2025-01-19,Customer_33,Headphones,Electronics,4,2000,8000,Salem,Card
+10183,2025-02-21,Customer_135,Smartphone,Electronics,4,25000,100000,Trichy,UPI
+10184,2025-12-02,Customer_249,Headphones,Electronics,4,2000,8000,Coimbatore,UPI
+10185,2025-06-23,Customer_160,Backpack,Bags,3,1500,4500,Erode,Net Banking
+10186,2025-12-12,Customer_220,Smartphone,Electronics,3,25000,75000,Salem,Net Banking
+10187,2025-10-05,Customer_10,Shoes,Fashion,4,1800,7200,Salem,UPI
+10188,2025-04-27,Customer_192,Keyboard,Accessories,3,1200,3600,Chennai,Net Banking
+10189,2025-08-16,Customer_43,Smartphone,Electronics,1,25000,25000,Erode,Card
+10190,2025-06-16,Customer_204,Laptop,Electronics,1,55000,55000,,Card
+10191,2025-08-09,Customer_38,Shoes,Fashion,3,1800,5400,Coimbatore,Net Banking
+10192,2025-03-29,Customer_45,Books,Education,2,500,1000,Chennai,Net Banking
+10193,2025-09-12,Customer_234,Books,Education,2,500,1000,Salem,Cash
+10194,2025-11-23,Customer_66,Keyboard,Accessories,4,1200,4800,Trichy,Card
+10195,2025-05-28,Customer_174,Laptop,Electronics,4,55000,220000,Salem,
+10196,2025-06-26,Customer_151,Smartphone,Electronics,4,25000,100000,Madurai,Net Banking
+10197,2025-06-04,Customer_51,Mouse,Accessories,4,800,3200,Trichy,Net Banking
+10198,2025-07-15,Customer_147,Smartphone,Electronics,2,25000,50000,Madurai,Card
+10199,2025-12-04,Customer_102,Mouse,Accessories,1,800,800,Madurai,UPI
+10200,2025-11-07,Customer_191,Books,Education,1,500,500,Trichy,Card
+10201,2025-06-30,Customer_57,Keyboard,Accessories,5,1200,6000,Erode,Cash
+10202,2025-12-14,Customer_194,Books,Education,3,500,1500,Erode,Cash
+10203,2025-06-08,Customer_202,Smartphone,Electronics,1,25000,25000,Trichy,UPI
+10204,2025-03-09,Customer_24,Books,Education,3,500,1500,Madurai,Card
+10205,2025-04-13,Customer_34,T-Shirt,Fashion,2,700,1400,Salem,Card
+10206,2025-05-20,Customer_213,Watch,Accessories,5,3000,15000,Coimbatore,Card
+10207,2025-06-23,Customer_206,Backpack,Bags,3,1500,4500,Chennai,Net Banking
+10208,2025-04-26,Customer_221,Smartphone,Electronics,2,25000,50000,Erode,Net Banking
+10209,2025-02-16,Customer_203,Watch,Accessories,3,3000,9000,Trichy,UPI
+10210,2025-03-05,Customer_117,Mouse,Accessories,5,800,4000,Madurai,Card
+10211,2025-11-23,Customer_241,Books,Education,4,500,2000,Madurai,UPI
+10212,2025-01-13,Customer_159,Keyboard,Accessories,4,1200,4800,Salem,Card
+10213,2025-11-28,Customer_17,Books,Education,2,500,1000,Erode,Net Banking
+10214,2025-03-01,Customer_36,Mouse,Accessories,4,800,3200,Chennai,UPI
+10215,2025-03-01,Customer_25,Mouse,Accessories,4,800,3200,Coimbatore,Cash
+10216,2025-07-09,Customer_172,T-Shirt,Fashion,4,700,2800,Erode,Net Banking
+10217,2025-08-01,Customer_168,Books,Education,2,500,1000,Chennai,Net Banking
+10218,2025-05-24,Customer_9,Books,Education,4,500,2000,Erode,Card
+10219,2025-08-16,Customer_244,Keyboard,Accessories,4,1200,4800,Coimbatore,Card
+10220,2025-10-06,Customer_231,Smartphone,Electronics,3,25000,75000,Erode,Card
+10221,2025-05-22,Customer_49,Laptop,Electronics,4,55000,220000,Chennai,Net Banking
+10222,2025-11-25,Customer_164,Smartphone,Electronics,2,25000,50000,Salem,UPI
+10223,2025-05-05,Customer_33,Laptop,Electronics,3,55000,165000,Salem,Cash
+10224,2025-04-17,Customer_151,Smartphone,Electronics,5,25000,125000,Coimbatore,Cash
+10225,2025-11-02,Customer_1,Shoes,Fashion,2,1800,3600,Madurai,Cash
+10226,2025-05-09,Customer_205,Headphones,Electronics,5,2000,10000,Coimbatore,UPI
+10227,2025-01-08,Customer_92,Laptop,Electronics,2,55000,110000,Coimbatore,Card
+10228,2025-05-16,Customer_14,Laptop,Electronics,2,55000,110000,Coimbatore,Net Banking
+10229,2025-02-02,Customer_122,Watch,Accessories,1,3000,3000,Trichy,Card
+10230,2025-02-25,Customer_116,Watch,Accessories,5,3000,15000,Salem,Cash
+10231,2025-12-04,Customer_134,Books,Education,1,500,500,Madurai,Net Banking
+10232,2025-09-03,Customer_217,Laptop,Electronics,1,55000,55000,Trichy,Net Banking
+10233,2025-12-31,Customer_233,Smartphone,Electronics,4,25000,100000,Trichy,UPI
+10234,2025-11-08,Customer_38,Smartphone,Electronics,3,25000,75000,Chennai,Cash
+10235,2025-11-21,Customer_150,Mouse,Accessories,5,800,4000,Salem,Card
+10236,2025-09-29,Customer_76,T-Shirt,Fashion,5,700,3500,Trichy,Net Banking
+10237,2025-12-02,Customer_167,Smartphone,Electronics,1,25000,25000,Salem,Cash
+10238,2025-04-27,Customer_106,T-Shirt,Fashion,4,700,2800,Madurai,Net Banking
+10239,2025-02-18,Customer_81,T-Shirt,Fashion,4,700,2800,Trichy,Card
+10240,2025-03-20,Customer_176,Mouse,Accessories,3,800,2400,Trichy,UPI
+10241,2025-02-17,Customer_111,Smartphone,Electronics,1,25000,25000,Chennai,Card
+10242,2025-01-31,Customer_151,Headphones,Electronics,5,2000,10000,Salem,Card
+10243,2025-07-01,Customer_224,Smartphone,Electronics,4,25000,100000,Erode,Net Banking
+10244,2025-11-04,Customer_80,Laptop,Electronics,3,55000,165000,Madurai,UPI
+10245,2025-04-19,Customer_40,Books,Education,5,500,2500,Erode,
+10246,2025-06-29,Customer_217,Keyboard,Accessories,1,1200,1200,Salem,Card
+10247,2025-10-21,Customer_58,Smartphone,Electronics,3,25000,75000,Trichy,UPI
+10248,2025-01-15,Customer_47,Books,Education,3,500,1500,Madurai,Card
+10249,2025-01-04,Customer_47,Shoes,Fashion,3,1800,5400,Coimbatore,Net Banking
+10250,2025-11-21,Customer_249,Smartphone,Electronics,2,25000,50000,Chennai,UPI
+10251,2025-07-12,Customer_108,Watch,Accessories,2,3000,6000,Trichy,Card
+10252,2025-06-09,Customer_185,Headphones,Electronics,3,2000,6000,Madurai,UPI
+10253,2025-03-22,Customer_194,Laptop,Electronics,2,55000,110000,Salem,UPI
+10254,2025-08-15,Customer_170,Smartphone,Electronics,3,25000,75000,Trichy,Net Banking
+10255,2025-08-01,Customer_70,Books,Education,4,500,2000,Coimbatore,UPI
+10256,2025-02-26,Customer_73,Shoes,Fashion,4,1800,7200,Erode,Net Banking
+10257,2025-01-24,Customer_57,Watch,Accessories,3,3000,9000,Trichy,UPI
+10258,2025-06-04,Customer_243,Laptop,Electronics,2,55000,110000,Coimbatore,Cash
+10259,2025-06-17,Customer_31,Mouse,Accessories,3,800,2400,Chennai,Net Banking
+10260,2025-03-08,Customer_98,T-Shirt,Fashion,2,700,1400,Salem,Cash
+10261,2025-12-09,Customer_207,Watch,Accessories,5,3000,15000,Madurai,UPI
+10262,2025-08-12,Customer_5,T-Shirt,Fashion,1,700,700,Trichy,UPI
+10263,2025-08-08,Customer_147,Shoes,Fashion,5,1800,9000,Trichy,Net Banking
+10264,2025-07-27,Customer_6,Mouse,Accessories,1,800,800,Madurai,Cash
+10265,2025-12-20,Customer_236,Books,Education,4,500,2000,Madurai,UPI
+10266,2025-05-05,Customer_112,T-Shirt,Fashion,1,700,700,Salem,Net Banking
+10267,2025-07-22,Customer_223,Watch,Accessories,1,3000,3000,Madurai,Card
+10268,2025-03-28,Customer_20,Keyboard,Accessories,3,1200,3600,Salem,UPI
+10269,2025-04-10,Customer_232,Watch,Accessories,5,3000,15000,Madurai,Card
+10270,2025-02-22,Customer_38,Headphones,Electronics,2,2000,4000,,Cash
+10271,2025-03-20,Customer_195,Headphones,Electronics,5,2000,10000,Erode,UPI
+10272,2025-08-26,Customer_194,Headphones,Electronics,4,2000,8000,Salem,Net Banking
+10273,2025-06-15,Customer_222,Books,Education,5,500,2500,Erode,Card
+10274,2025-02-04,Customer_121,Headphones,Electronics,4,2000,8000,Trichy,Card
+10275,2025-01-29,Customer_91,Mouse,Accessories,5,800,4000,Salem,UPI
+10276,2025-08-20,Customer_10,Mouse,Accessories,4,800,3200,Chennai,Card
+10277,2025-11-27,Customer_222,Mouse,Accessories,1,800,800,Chennai,Net Banking
+10278,2025-10-11,Customer_245,Backpack,Bags,5,1500,7500,Erode,UPI
+10279,2025-11-30,Customer_49,Backpack,Bags,5,1500,7500,Madurai,Net Banking
+10280,2025-02-01,Customer_116,Watch,Accessories,2,3000,6000,Chennai,Card
+10281,2025-11-27,Customer_45,Smartphone,Electronics,5,25000,125000,Chennai,Cash
+10282,2025-09-26,Customer_134,Backpack,Bags,4,1500,6000,Salem,Cash
+10283,2025-05-25,Customer_100,Shoes,Fashion,3,1800,5400,Trichy,Card
+10284,2025-11-20,Customer_166,Books,Education,1,500,500,Madurai,UPI
+10285,2025-10-13,Customer_174,Shoes,Fashion,1,1800,1800,Trichy,Card
+10286,2025-03-18,Customer_86,Mouse,Accessories,5,800,4000,Chennai,Cash
+10287,2025-12-02,Customer_179,Shoes,Fashion,3,1800,5400,Erode,Net Banking
+10288,2025-12-29,Customer_241,Headphones,Electronics,5,2000,10000,Chennai,Card
+10289,2025-11-26,Customer_203,Watch,Accessories,4,3000,12000,Madurai,Cash
+10290,2025-11-27,Customer_172,Watch,Accessories,1,3000,3000,Trichy,Card
+10291,2025-06-08,Customer_47,Laptop,Electronics,3,55000,165000,Coimbatore,Card
+10292,2025-04-26,Customer_36,Backpack,Bags,2,1500,3000,Coimbatore,UPI
+10293,2025-09-17,Customer_198,Mouse,Accessories,1,800,800,Salem,UPI
+10294,2025-03-09,Customer_153,Shoes,Fashion,5,1800,9000,Trichy,Cash
+10295,2025-12-21,Customer_198,Headphones,Electronics,2,2000,4000,Salem,Cash
+10296,2025-07-30,Customer_94,Backpack,Bags,1,1500,1500,Erode,Cash
+10297,2025-05-26,Customer_193,Backpack,Bags,5,1500,7500,Erode,Net Banking
+10298,2025-05-03,Customer_80,Keyboard,Accessories,5,1200,6000,Trichy,Cash
+10299,2025-08-14,Customer_119,Shoes,Fashion,5,1800,9000,Madurai,Net Banking
+10300,2025-08-03,Customer_248,Watch,Accessories,5,3000,15000,Coimbatore,Cash
+10301,2025-05-09,Customer_14,Books,Education,2,500,1000,Erode,Net Banking
+10302,2025-02-22,Customer_183,Shoes,Fashion,5,1800,9000,Salem,UPI
+10303,2025-03-24,Customer_70,Mouse,Accessories,1,800,800,,Cash
+10304,2025-04-24,Customer_210,T-Shirt,Fashion,1,700,700,Trichy,Card
+10305,2025-01-28,Customer_102,Laptop,Electronics,4,55000,220000,Salem,Card
+10306,2025-02-11,Customer_96,Keyboard,Accessories,4,1200,4800,Coimbatore,UPI
+10307,2025-11-29,Customer_86,Shoes,Fashion,1,1800,1800,Coimbatore,Cash
+10308,2025-08-30,Customer_179,Laptop,Electronics,3,55000,165000,Coimbatore,Net Banking
+10309,2025-01-03,Customer_232,Backpack,Bags,5,1500,7500,Chennai,UPI
+10310,2025-03-18,Customer_141,Mouse,Accessories,2,800,1600,Erode,Net Banking
+10311,2025-05-02,Customer_78,Smartphone,Electronics,3,25000,75000,Chennai,UPI
+10312,2025-11-24,Customer_204,Keyboard,Accessories,4,1200,4800,Salem,Net Banking
+10313,2025-09-13,Customer_153,Smartphone,Electronics,1,25000,25000,Salem,UPI
+10314,2025-05-04,Customer_184,Watch,Accessories,5,3000,15000,Coimbatore,Card
+10315,2025-11-11,Customer_91,T-Shirt,Fashion,1,700,700,Coimbatore,Net Banking
+10316,2025-09-26,Customer_250,Headphones,Electronics,1,2000,2000,Madurai,UPI
+10317,2025-09-17,Customer_202,Watch,Accessories,5,3000,15000,Salem,UPI
+10318,2025-01-23,Customer_163,T-Shirt,Fashion,4,700,2800,Trichy,Card
+10319,2025-07-02,Customer_202,Mouse,Accessories,1,800,800,Chennai,Card
+10320,2025-10-25,Customer_189,Keyboard,Accessories,1,1200,1200,Madurai,Cash
+10321,2025-10-07,Customer_87,Laptop,Electronics,3,55000,165000,Erode,Cash
+10322,2025-11-20,Customer_47,Backpack,Bags,4,1500,6000,Coimbatore,UPI
+10323,2025-05-31,Customer_52,Backpack,Bags,1,1500,1500,Chennai,Cash
+10324,2025-06-08,Customer_132,Laptop,Electronics,3,55000,165000,Trichy,Net Banking
+10325,2025-11-28,Customer_49,Mouse,Accessories,1,800,800,Madurai,Card
+10326,2025-05-20,Customer_32,Laptop,Electronics,3,55000,165000,Madurai,Net Banking
+10327,2025-07-17,Customer_87,T-Shirt,Fashion,4,700,2800,Coimbatore,Net Banking
+10328,2025-09-23,Customer_69,Backpack,Bags,3,1500,4500,Chennai,Net Banking
+10329,2025-11-05,Customer_211,Smartphone,Electronics,4,25000,100000,Coimbatore,
+10330,2025-02-10,Customer_84,Shoes,Fashion,1,1800,1800,Erode,Card
+10331,2025-11-05,Customer_184,Mouse,Accessories,4,800,3200,Trichy,Cash
+10332,2025-08-17,Customer_11,Backpack,Bags,3,1500,4500,Erode,Card
+10333,2025-05-21,Customer_164,Books,Education,4,500,2000,Chennai,UPI
+10334,2025-09-20,Customer_206,T-Shirt,Fashion,3,700,2100,Erode,Cash
+10335,2025-11-08,Customer_174,Laptop,Electronics,2,55000,110000,Trichy,UPI
+10336,2025-05-01,Customer_200,Headphones,Electronics,1,2000,2000,Erode,Card
+10337,2025-10-18,Customer_9,Shoes,Fashion,4,1800,7200,Salem,Cash
+10338,2025-07-10,Customer_114,Backpack,Bags,3,1500,4500,Chennai,Cash
+10339,2025-07-23,Customer_81,Watch,Accessories,3,3000,9000,Erode,Card
+10340,2025-01-14,Customer_189,Keyboard,Accessories,1,1200,1200,Coimbatore,Net Banking
+10341,2025-10-15,Customer_31,Watch,Accessories,4,3000,12000,Madurai,Card
+10342,2025-11-10,Customer_74,Backpack,Bags,2,1500,3000,Erode,Net Banking
+10343,2025-03-11,Customer_219,Keyboard,Accessories,1,1200,1200,Chennai,Net Banking
+10344,2025-02-14,Customer_208,Headphones,Electronics,4,2000,8000,Erode,Card
+10345,2025-10-09,Customer_139,Shoes,Fashion,1,1800,1800,Madurai,Card
+10346,2025-07-05,Customer_131,Headphones,Electronics,2,2000,4000,Coimbatore,UPI
+10347,2025-05-02,Customer_203,Keyboard,Accessories,2,1200,2400,Trichy,UPI
+10348,2025-10-21,Customer_95,Shoes,Fashion,5,1800,9000,Trichy,Cash
+10349,2025-02-03,Customer_80,Books,Education,1,500,500,Trichy,Net Banking
+10350,2025-07-29,Customer_211,Watch,Accessories,4,3000,12000,Salem,UPI
+10351,2025-11-25,Customer_19,Headphones,Electronics,3,2000,6000,Trichy,Net Banking
+10352,2025-03-07,Customer_225,Watch,Accessories,3,3000,9000,Salem,Cash
+10353,2025-09-15,Customer_234,Headphones,Electronics,4,2000,8000,Chennai,UPI
+10354,2025-06-05,Customer_43,Watch,Accessories,2,3000,6000,Coimbatore,Card
+10355,2025-09-23,Customer_230,Keyboard,Accessories,3,1200,3600,Madurai,UPI
+10356,2025-11-22,Customer_245,Mouse,Accessories,2,800,1600,Salem,Card
+10357,2025-11-11,Customer_137,Headphones,Electronics,3,2000,6000,Chennai,Cash
+10358,2025-03-20,Customer_44,Books,Education,5,500,2500,Erode,Card
+10359,2025-01-15,Customer_21,Books,Education,1,500,500,Chennai,Card
+10360,2025-08-02,Customer_159,Keyboard,Accessories,5,1200,6000,Erode,UPI
+10361,2025-05-29,Customer_165,Backpack,Bags,5,1500,7500,Madurai,Net Banking
+10362,2025-06-02,Customer_117,Keyboard,Accessories,4,1200,4800,Chennai,UPI
+10363,2025-08-01,Customer_124,Headphones,Electronics,4,2000,8000,Trichy,Cash
+10364,2025-03-15,Customer_81,Shoes,Fashion,5,1800,9000,Erode,Card
+10365,2025-03-08,Customer_195,Shoes,Fashion,4,1800,7200,Madurai,UPI
+10366,2025-08-27,Customer_32,Shoes,Fashion,2,1800,3600,Madurai,Net Banking
+10367,2025-02-19,Customer_13,Keyboard,Accessories,2,1200,2400,Madurai,Net Banking
+10368,2025-05-08,Customer_247,Books,Education,4,500,2000,Coimbatore,Card
+10369,2025-04-08,Customer_196,Books,Education,3,500,1500,Coimbatore,Net Banking
+10370,2025-09-13,Customer_226,Watch,Accessories,4,3000,12000,Madurai,Net Banking
+10371,2025-07-21,Customer_130,Laptop,Electronics,1,55000,55000,Trichy,Cash
+10372,2025-06-30,Customer_13,Keyboard,Accessories,5,1200,6000,Chennai,Card
+10373,2025-12-01,Customer_173,Backpack,Bags,5,1500,7500,,Card
+10374,2025-02-25,Customer_111,Watch,Accessories,1,3000,3000,Coimbatore,Card
+10375,2025-07-07,Customer_12,Shoes,Fashion,4,1800,7200,Trichy,UPI
+10376,2025-04-10,Customer_93,Books,Education,5,500,2500,,Card
+10377,2025-09-16,Customer_116,Smartphone,Electronics,4,25000,100000,Salem,Card
+10378,2025-03-02,Customer_33,Books,Education,5,500,2500,Chennai,Net Banking
+10379,2025-10-13,Customer_241,Shoes,Fashion,3,1800,5400,Madurai,Cash
+10380,2025-09-18,Customer_103,Keyboard,Accessories,5,1200,6000,Salem,UPI
+10381,2025-03-12,Customer_183,Laptop,Electronics,1,55000,55000,Madurai,Net Banking
+10382,2025-03-18,Customer_156,Watch,Accessories,4,3000,12000,Salem,Cash
+10383,2025-06-13,Customer_42,Shoes,Fashion,5,1800,9000,Trichy,Card
+10384,2025-09-17,Customer_213,Books,Education,3,500,1500,Salem,Net Banking
+10385,2025-09-01,Customer_209,Books,Education,3,500,1500,Chennai,Card
+10386,2025-08-02,Customer_150,Shoes,Fashion,1,1800,1800,Madurai,UPI
+10387,2025-05-16,Customer_248,Books,Education,4,500,2000,Erode,Cash
+10388,2025-09-03,Customer_44,Laptop,Electronics,5,55000,275000,Salem,Net Banking
+10389,2025-01-17,Customer_147,Headphones,Electronics,2,2000,4000,,UPI
+10390,2025-08-14,Customer_81,Keyboard,Accessories,1,1200,1200,Trichy,Cash
+10391,2025-07-30,Customer_129,T-Shirt,Fashion,2,700,1400,Salem,Net Banking
+10392,2025-09-23,Customer_54,Laptop,Electronics,2,55000,110000,Salem,Card
+10393,2025-07-12,Customer_81,Backpack,Bags,5,1500,7500,Coimbatore,Net Banking
+10394,2025-10-07,Customer_91,Watch,Accessories,3,3000,9000,Erode,Card
+10395,2025-04-09,Customer_246,Books,Education,4,500,2000,Coimbatore,Card
+10396,2025-04-26,Customer_242,Watch,Accessories,3,3000,9000,Madurai,Card
+10397,2025-06-12,Customer_123,Keyboard,Accessories,4,1200,4800,Madurai,
+10398,2025-10-21,Customer_174,Mouse,Accessories,1,800,800,Salem,Net Banking
+10399,2025-03-16,Customer_75,T-Shirt,Fashion,3,700,2100,Chennai,Card
+10400,2025-08-15,Customer_168,Smartphone,Electronics,3,25000,75000,Madurai,Net Banking
+10401,2025-10-03,Customer_70,Keyboard,Accessories,2,1200,2400,Salem,Card
+10402,2025-11-12,Customer_190,Headphones,Electronics,1,2000,2000,Salem,Cash
+10403,2025-12-09,Customer_232,Keyboard,Accessories,1,1200,1200,Salem,Cash
+10404,2025-02-21,Customer_106,Keyboard,Accessories,1,1200,1200,Madurai,Net Banking
+10405,2025-01-03,Customer_247,Smartphone,Electronics,2,25000,50000,Salem,Cash
+10406,2025-09-02,Customer_167,T-Shirt,Fashion,4,700,2800,Coimbatore,Card
+10407,2025-11-27,Customer_16,Shoes,Fashion,3,1800,5400,Chennai,Cash
+10408,2025-03-31,Customer_107,Watch,Accessories,1,3000,3000,Coimbatore,UPI
+10409,2025-04-06,Customer_240,T-Shirt,Fashion,4,700,2800,Erode,Card
+10410,2025-06-02,Customer_146,Laptop,Electronics,1,55000,55000,Salem,UPI
+10411,2025-08-21,Customer_165,Shoes,Fashion,3,1800,5400,Salem,Net Banking
+10412,2025-08-28,Customer_70,Headphones,Electronics,5,2000,10000,Coimbatore,UPI
+10413,2025-08-23,Customer_166,Shoes,Fashion,2,1800,3600,Madurai,Cash
+10414,2025-06-01,Customer_146,Laptop,Electronics,3,55000,165000,Erode,Cash
+10415,2025-11-24,Customer_230,Headphones,Electronics,5,2000,10000,Trichy,Net Banking
+10416,2025-02-14,Customer_103,Watch,Accessories,3,3000,9000,Erode,UPI
+10417,2025-09-02,Customer_83,Headphones,Electronics,2,2000,4000,Coimbatore,UPI
+10418,2025-05-01,Customer_115,Mouse,Accessories,4,800,3200,Madurai,Card
+10419,2025-10-21,Customer_3,Mouse,Accessories,5,800,4000,Madurai,Card
+10420,2025-12-08,Customer_31,Keyboard,Accessories,1,1200,1200,Trichy,Card
+10421,2025-12-18,Customer_129,Headphones,Electronics,4,2000,8000,Erode,Card
+10422,2025-07-08,Customer_158,Smartphone,Electronics,3,25000,75000,Coimbatore,Cash
+10423,2025-03-20,Customer_117,Headphones,Electronics,4,2000,8000,Erode,Card
+10424,2025-08-30,Customer_194,T-Shirt,Fashion,5,700,3500,Salem,Cash
+10425,2025-02-11,Customer_135,Keyboard,Accessories,5,1200,6000,Trichy,Card
+10426,2025-02-27,Customer_16,Smartphone,Electronics,5,25000,125000,Salem,Cash
+10427,2025-03-18,Customer_43,Books,Education,5,500,2500,Madurai,Net Banking
+10428,2025-10-26,Customer_126,Smartphone,Electronics,2,25000,50000,Chennai,Net Banking
+10429,2025-03-09,Customer_132,Laptop,Electronics,4,55000,220000,Trichy,Net Banking
+10430,2025-10-14,Customer_119,Books,Education,1,500,500,Erode,Card
+10431,2025-05-11,Customer_210,Laptop,Electronics,4,55000,220000,Chennai,Cash
+10432,2025-01-24,Customer_109,Books,Education,1,500,500,Madurai,UPI
+10433,2025-02-05,Customer_240,Watch,Accessories,1,3000,3000,Trichy,UPI
+10434,2025-04-03,Customer_197,Mouse,Accessories,4,800,3200,Coimbatore,Net Banking
+10435,2025-08-18,Customer_223,Shoes,Fashion,4,1800,7200,Trichy,Net Banking
+10436,2025-03-10,Customer_168,Smartphone,Electronics,5,25000,125000,Madurai,UPI
+10437,2025-07-21,Customer_136,Headphones,Electronics,5,2000,10000,Coimbatore,Cash
+10438,2025-06-02,Customer_119,Laptop,Electronics,1,55000,55000,Erode,Net Banking
+10439,2025-04-28,Customer_64,Watch,Accessories,4,3000,12000,Trichy,Card
+10440,2025-04-07,Customer_240,Headphones,Electronics,3,2000,6000,Erode,UPI
+10441,2025-11-11,Customer_197,Laptop,Electronics,4,55000,220000,Chennai,Cash
+10442,2025-02-21,Customer_153,Keyboard,Accessories,1,1200,1200,Chennai,Net Banking
+10443,2025-05-06,Customer_190,Books,Education,1,500,500,Chennai,Net Banking
+10444,2025-10-04,Customer_56,Backpack,Bags,2,1500,3000,Chennai,Cash
+10445,2025-04-30,Customer_209,Watch,Accessories,3,3000,9000,Erode,Card
+10446,2025-12-11,Customer_210,Books,Education,5,500,2500,Madurai,Cash
+10447,2025-12-05,Customer_134,Mouse,Accessories,2,800,1600,Coimbatore,Net Banking
+10448,2025-02-01,Customer_143,Mouse,Accessories,3,800,2400,Salem,Cash
+10449,2025-09-11,Customer_13,T-Shirt,Fashion,5,700,3500,Madurai,Net Banking
+10450,2025-12-23,Customer_107,Watch,Accessories,3,3000,9000,Trichy,Cash
+10451,2025-04-05,Customer_194,Mouse,Accessories,4,800,3200,Salem,Net Banking
+10452,2025-06-03,Customer_220,Keyboard,Accessories,2,1200,2400,Erode,Cash
+10453,2025-10-15,Customer_106,Backpack,Bags,1,1500,1500,Trichy,Cash
+10454,2025-05-11,Customer_53,T-Shirt,Fashion,2,700,1400,Madurai,UPI
+10455,2025-02-17,Customer_138,Backpack,Bags,3,1500,4500,Erode,Cash
+10456,2025-07-13,Customer_173,Laptop,Electronics,3,55000,165000,Salem,UPI
+10457,2025-10-28,Customer_186,Smartphone,Electronics,2,25000,50000,Erode,Cash
+10458,2025-06-20,Customer_78,Backpack,Bags,2,1500,3000,Chennai,Cash
+10459,2025-09-03,Customer_235,Keyboard,Accessories,1,1200,1200,Coimbatore,Cash
+10460,2025-10-10,Customer_83,T-Shirt,Fashion,2,700,1400,Madurai,Net Banking
+10461,2025-11-29,Customer_92,Backpack,Bags,5,1500,7500,,Card
+10462,2025-09-12,Customer_120,Shoes,Fashion,5,1800,9000,Chennai,Net Banking
+10463,2025-07-09,Customer_81,Shoes,Fashion,2,1800,3600,Trichy,UPI
+10464,2025-03-16,Customer_5,Books,Education,2,500,1000,Madurai,Net Banking
+10465,2025-04-11,Customer_85,Mouse,Accessories,2,800,1600,,Net Banking
+10466,2025-09-13,Customer_141,Books,Education,2,500,1000,Erode,Card
+10467,2025-11-25,Customer_190,Mouse,Accessories,4,800,3200,Trichy,Net Banking
+10468,2025-03-28,Customer_36,Headphones,Electronics,3,2000,6000,Erode,Net Banking
+10469,2025-11-25,Customer_246,Headphones,Electronics,5,2000,10000,Chennai,UPI
+10470,2025-01-04,Customer_106,Smartphone,Electronics,1,25000,25000,Coimbatore,Cash
+10471,2025-01-05,Customer_56,Smartphone,Electronics,2,25000,50000,Salem,Net Banking
+10472,2025-11-13,Customer_164,Shoes,Fashion,1,1800,1800,Erode,Net Banking
+10473,2025-01-04,Customer_137,Backpack,Bags,1,1500,1500,Salem,Net Banking
+10474,2025-09-29,Customer_185,Laptop,Electronics,1,55000,55000,Madurai,Card
+10475,2025-12-24,Customer_173,Laptop,Electronics,5,55000,275000,Trichy,Cash
+10476,2025-09-26,Customer_39,Smartphone,Electronics,1,25000,25000,Coimbatore,Cash
+10477,2025-05-10,Customer_209,Books,Education,5,500,2500,Madurai,Card
+10478,2025-07-11,Customer_246,T-Shirt,Fashion,1,700,700,Trichy,Net Banking
+10479,2025-12-23,Customer_58,Books,Education,2,500,1000,Madurai,UPI
+10480,2025-07-27,Customer_98,Laptop,Electronics,1,55000,55000,Trichy,Net Banking
+10481,2025-12-26,Customer_44,Laptop,Electronics,1,55000,55000,Chennai,Net Banking
+10482,2025-10-17,Customer_220,T-Shirt,Fashion,3,700,2100,Chennai,UPI
+10483,2025-12-21,Customer_228,Keyboard,Accessories,2,1200,2400,Salem,Net Banking
+10484,2025-02-08,Customer_176,Mouse,Accessories,1,800,800,Madurai,UPI
+10485,2025-01-09,Customer_247,Headphones,Electronics,3,2000,6000,Coimbatore,Cash
+10486,2025-06-03,Customer_42,T-Shirt,Fashion,1,700,700,Salem,Cash
+10487,2025-12-13,Customer_230,Books,Education,4,500,2000,Salem,Card
+10488,2025-12-19,Customer_186,T-Shirt,Fashion,2,700,1400,Chennai,Card
+10489,2025-08-12,Customer_60,Laptop,Electronics,1,55000,55000,Chennai,Card
+10490,2025-11-01,Customer_102,Books,Education,5,500,2500,Madurai,UPI
+10491,2025-09-09,Customer_59,Mouse,Accessories,4,800,3200,Madurai,Net Banking
+10492,2025-12-15,Customer_150,T-Shirt,Fashion,2,700,1400,Erode,Net Banking
+10493,2025-06-01,Customer_205,Smartphone,Electronics,5,25000,125000,Coimbatore,UPI
+10494,2025-03-20,Customer_98,Smartphone,Electronics,3,25000,75000,Erode,Cash
+10495,2025-07-04,Customer_28,T-Shirt,Fashion,3,700,2100,Chennai,UPI
+10496,2025-07-04,Customer_195,Mouse,Accessories,4,800,3200,Madurai,UPI
+10497,2025-04-06,Customer_111,Headphones,Electronics,1,2000,2000,Trichy,Net Banking
+10498,2025-02-15,Customer_91,Smartphone,Electronics,1,25000,25000,Salem,UPI
+10499,2025-06-16,Customer_222,Books,Education,5,500,2500,Trichy,UPI
+10500,2025-07-18,Customer_200,Mouse,Accessories,4,800,3200,Chennai,Cash
+10501,2025-03-28,Customer_176,Books,Education,5,500,2500,Trichy,Cash
+10502,2025-06-04,Customer_69,Headphones,Electronics,3,2000,6000,Trichy,Cash
+10503,2025-08-11,Customer_71,Smartphone,Electronics,2,25000,50000,Trichy,Card
+10504,2025-07-04,Customer_65,Backpack,Bags,1,1500,1500,Coimbatore,Net Banking
+10505,2025-04-11,Customer_118,Books,Education,5,500,2500,Chennai,Cash
+10506,2025-07-22,Customer_86,Mouse,Accessories,1,800,800,Salem,Net Banking
+10507,2025-06-21,Customer_111,Shoes,Fashion,4,1800,7200,Erode,Cash
+10508,2025-11-05,Customer_243,Mouse,Accessories,3,800,2400,Erode,Cash
+10509,2025-04-01,Customer_247,Backpack,Bags,3,1500,4500,Trichy,Card
+10510,2025-10-22,Customer_201,Mouse,Accessories,4,800,3200,Coimbatore,
+10511,2025-07-21,Customer_94,T-Shirt,Fashion,3,700,2100,Chennai,Cash
+10512,2025-04-03,Customer_175,Books,Education,5,500,2500,Salem,UPI
+10513,2025-08-13,Customer_205,Backpack,Bags,2,1500,3000,Madurai,UPI
+10514,2025-03-13,Customer_163,T-Shirt,Fashion,4,700,2800,Madurai,Cash
+10515,2025-08-05,Customer_203,Mouse,Accessories,2,800,1600,Trichy,UPI
+10516,2025-09-03,Customer_150,Backpack,Bags,5,1500,7500,Trichy,Net Banking
+10517,2025-07-04,Customer_180,Watch,Accessories,1,3000,3000,Salem,UPI
+10518,2025-12-03,Customer_171,Smartphone,Electronics,2,25000,50000,Madurai,Cash
+10519,2025-10-16,Customer_166,Books,Education,1,500,500,,Net Banking
+10520,2025-02-24,Customer_3,Shoes,Fashion,4,1800,7200,Chennai,Card
+10521,2025-09-23,Customer_143,Keyboard,Accessories,5,1200,6000,Salem,Cash
+10522,2025-07-20,Customer_119,Backpack,Bags,3,1500,4500,Erode,Cash
+10523,2025-09-05,Customer_27,Shoes,Fashion,1,1800,1800,Madurai,Net Banking
+10524,2025-03-14,Customer_90,Smartphone,Electronics,1,25000,25000,Madurai,Card
+10525,2025-09-24,Customer_124,Backpack,Bags,2,1500,3000,Madurai,Net Banking
+10526,2025-12-23,Customer_116,Smartphone,Electronics,4,25000,100000,Madurai,UPI
+10527,2025-12-30,Customer_30,Mouse,Accessories,1,800,800,Chennai,Card
+10528,2025-05-05,Customer_133,Smartphone,Electronics,2,25000,50000,Coimbatore,Cash
+10529,2025-08-07,Customer_246,Shoes,Fashion,5,1800,9000,Trichy,Cash
+10530,2025-04-06,Customer_164,T-Shirt,Fashion,2,700,1400,Erode,Net Banking
+10531,2025-11-11,Customer_227,T-Shirt,Fashion,1,700,700,Coimbatore,Net Banking
+10532,2025-07-19,Customer_2,Books,Education,4,500,2000,Erode,Cash
+10533,2025-12-27,Customer_208,Keyboard,Accessories,3,1200,3600,Chennai,UPI
+10534,2025-07-07,Customer_84,Watch,Accessories,2,3000,6000,Coimbatore,Net Banking
+10535,2025-12-10,Customer_221,Smartphone,Electronics,3,25000,75000,Trichy,Card
+10536,2025-11-09,Customer_101,Books,Education,4,500,2000,Salem,UPI
+10537,2025-08-23,Customer_159,Shoes,Fashion,3,1800,5400,Coimbatore,
+10538,2025-02-13,Customer_173,Books,Education,5,500,2500,Coimbatore,Card
+10539,2025-06-06,Customer_30,Smartphone,Electronics,2,25000,50000,Coimbatore,Card
+10540,2025-07-18,Customer_108,Headphones,Electronics,5,2000,10000,Salem,Cash
+10541,2025-08-05,Customer_48,Books,Education,4,500,2000,Trichy,Cash
+10542,2025-09-08,Customer_74,Watch,Accessories,2,3000,6000,Coimbatore,Cash
+10543,2025-11-14,Customer_14,Shoes,Fashion,4,1800,7200,Madurai,UPI
+10544,2025-04-10,Customer_209,Backpack,Bags,2,1500,3000,Trichy,Net Banking
+10545,2025-08-01,Customer_182,T-Shirt,Fashion,4,700,2800,Trichy,Net Banking
+10546,2025-10-17,Customer_8,Headphones,Electronics,1,2000,2000,Coimbatore,Card
+10547,2025-04-26,Customer_138,Laptop,Electronics,3,55000,165000,Madurai,Cash
+10548,2025-09-11,Customer_141,Backpack,Bags,5,1500,7500,Salem,UPI
+10549,2025-05-18,Customer_199,Books,Education,1,500,500,Salem,Card
+10550,2025-08-14,Customer_140,Watch,Accessories,1,3000,3000,Coimbatore,Net Banking
+10551,2025-06-02,Customer_224,Smartphone,Electronics,2,25000,50000,Chennai,Net Banking
+10552,2025-02-14,Customer_113,Mouse,Accessories,3,800,2400,Chennai,
+10553,2025-12-19,Customer_90,Keyboard,Accessories,5,1200,6000,Erode,Net Banking
+10554,2025-03-13,Customer_201,Headphones,Electronics,5,2000,10000,Coimbatore,Cash
+10555,2025-06-29,Customer_137,Laptop,Electronics,5,55000,275000,,Cash
+10556,2025-05-29,Customer_147,Shoes,Fashion,3,1800,5400,Madurai,UPI
+10557,2025-01-31,Customer_71,Headphones,Electronics,4,2000,8000,Erode,Cash
+10558,2025-03-16,Customer_183,Headphones,Electronics,2,2000,4000,Madurai,Cash
+10559,2025-03-14,Customer_148,T-Shirt,Fashion,4,700,2800,Erode,Card
+10560,2025-08-20,Customer_20,T-Shirt,Fashion,4,700,2800,Erode,UPI
+10561,2025-05-23,Customer_178,T-Shirt,Fashion,5,700,3500,Madurai,Net Banking
+10562,2025-10-25,Customer_1,Backpack,Bags,3,1500,4500,Erode,UPI
+10563,2025-02-02,Customer_204,Backpack,Bags,3,1500,4500,Salem,Net Banking
+10564,2025-04-19,Customer_127,Keyboard,Accessories,4,1200,4800,Madurai,Card
+10565,2025-10-08,Customer_148,Mouse,Accessories,3,800,2400,Coimbatore,
+10566,2025-01-24,Customer_26,Shoes,Fashion,1,1800,1800,Erode,Net Banking
+10567,2025-03-22,Customer_113,Laptop,Electronics,1,55000,55000,Trichy,UPI
+10568,2025-12-19,Customer_233,T-Shirt,Fashion,2,700,1400,Coimbatore,Card
+10569,2025-02-17,Customer_168,Headphones,Electronics,3,2000,6000,Madurai,Card
+10570,2025-12-07,Customer_232,Smartphone,Electronics,3,25000,75000,Erode,Cash
+10571,2025-11-17,Customer_79,Laptop,Electronics,4,55000,220000,Erode,Cash
+10572,2025-12-27,Customer_25,T-Shirt,Fashion,1,700,700,Chennai,Cash
+10573,2025-03-09,Customer_152,Backpack,Bags,1,1500,1500,Coimbatore,Net Banking
+10574,2025-12-23,Customer_88,Laptop,Electronics,1,55000,55000,Chennai,Net Banking
+10575,2025-02-06,Customer_59,Headphones,Electronics,4,2000,8000,Trichy,UPI
+10576,2025-06-10,Customer_95,Smartphone,Electronics,1,25000,25000,Madurai,Cash
+10577,2025-11-25,Customer_174,T-Shirt,Fashion,2,700,1400,Coimbatore,UPI
+10578,2025-01-05,Customer_157,Watch,Accessories,5,3000,15000,Erode,Cash
+10579,2025-04-20,Customer_161,Backpack,Bags,3,1500,4500,Erode,Cash
+10580,2025-12-18,Customer_114,T-Shirt,Fashion,5,700,3500,Coimbatore,UPI
+10581,2025-03-05,Customer_151,Smartphone,Electronics,2,25000,50000,Erode,Net Banking
+10582,2025-06-11,Customer_203,Shoes,Fashion,4,1800,7200,Coimbatore,Cash
+10583,2025-05-08,Customer_142,Mouse,Accessories,1,800,800,Salem,Card
+10584,2025-04-16,Customer_133,Laptop,Electronics,3,55000,165000,Salem,Cash
+10585,2025-11-27,Customer_14,T-Shirt,Fashion,3,700,2100,Coimbatore,Net Banking
+10586,2025-05-04,Customer_128,T-Shirt,Fashion,1,700,700,Erode,UPI
+10587,2025-07-04,Customer_240,Watch,Accessories,1,3000,3000,Madurai,Cash
+10588,2025-08-04,Customer_94,T-Shirt,Fashion,5,700,3500,Salem,Cash
+10589,2025-01-09,Customer_151,Backpack,Bags,1,1500,1500,Chennai,UPI
+10590,2025-01-21,Customer_237,Mouse,Accessories,2,800,1600,Chennai,Net Banking
+10591,2025-11-18,Customer_183,Watch,Accessories,3,3000,9000,Salem,Net Banking
+10592,2025-02-12,Customer_164,T-Shirt,Fashion,4,700,2800,Salem,Cash
+10593,2025-06-08,Customer_21,Mouse,Accessories,1,800,800,Salem,Cash
+10594,2025-06-17,Customer_101,Headphones,Electronics,5,2000,10000,Salem,UPI
+10595,2025-05-03,Customer_15,Mouse,Accessories,4,800,3200,Coimbatore,UPI
+10596,2025-08-21,Customer_157,T-Shirt,Fashion,1,700,700,Salem,UPI
+10597,2025-03-03,Customer_4,Mouse,Accessories,2,800,1600,Erode,Cash
+10598,2025-09-12,Customer_244,Laptop,Electronics,2,55000,110000,Madurai,Card
+10599,2025-03-06,Customer_192,Headphones,Electronics,3,2000,6000,Madurai,UPI
+10600,2025-08-08,Customer_70,Laptop,Electronics,3,55000,165000,Salem,UPI
+10601,2025-11-18,Customer_20,Mouse,Accessories,5,800,4000,Trichy,Net Banking
+10602,2025-01-29,Customer_128,Watch,Accessories,3,3000,9000,Salem,Cash
+10603,2025-05-11,Customer_198,Shoes,Fashion,2,1800,3600,Chennai,UPI
+10604,2025-01-02,Customer_12,Keyboard,Accessories,5,1200,6000,Chennai,Cash
+10605,2025-07-06,Customer_99,Laptop,Electronics,4,55000,220000,Coimbatore,Cash
+10606,2025-12-02,Customer_108,Laptop,Electronics,5,55000,275000,Coimbatore,Card
+10607,2025-06-13,Customer_70,Keyboard,Accessories,4,1200,4800,Chennai,Card
+10608,2025-12-11,Customer_231,Smartphone,Electronics,5,25000,125000,Chennai,Cash
+10609,2025-01-24,Customer_245,Keyboard,Accessories,5,1200,6000,Trichy,UPI
+10610,2025-06-09,Customer_84,Backpack,Bags,3,1500,4500,Chennai,Net Banking
+10611,2025-04-13,Customer_75,Laptop,Electronics,3,55000,165000,Salem,Card
+10612,2025-08-26,Customer_95,Books,Education,2,500,1000,Salem,Net Banking
+10613,2025-05-06,Customer_39,Keyboard,Accessories,5,1200,6000,Chennai,Net Banking
+10614,2025-10-05,Customer_89,Laptop,Electronics,2,55000,110000,Erode,UPI
+10615,2025-12-03,Customer_97,Shoes,Fashion,1,1800,1800,Erode,Card
+10616,2025-09-29,Customer_61,Smartphone,Electronics,2,25000,50000,Trichy,Net Banking
+10617,2025-12-31,Customer_72,Laptop,Electronics,2,55000,110000,Chennai,UPI
+10618,2025-07-31,Customer_180,Keyboard,Accessories,5,1200,6000,Madurai,Net Banking
+10619,2025-02-18,Customer_130,Smartphone,Electronics,5,25000,125000,Coimbatore,Net Banking
+10620,2025-10-18,Customer_16,Smartphone,Electronics,5,25000,125000,Trichy,Cash
+10621,2025-05-14,Customer_218,Keyboard,Accessories,3,1200,3600,Madurai,Net Banking
+10622,2025-08-20,Customer_70,Shoes,Fashion,3,1800,5400,Coimbatore,UPI
+10623,2025-10-27,Customer_28,Keyboard,Accessories,2,1200,2400,Coimbatore,UPI
+10624,2025-08-27,Customer_81,Headphones,Electronics,4,2000,8000,Trichy,UPI
+10625,2025-04-17,Customer_116,Watch,Accessories,3,3000,9000,Madurai,Net Banking
+10626,2025-02-16,Customer_41,Mouse,Accessories,1,800,800,Erode,Card
+10627,2025-04-21,Customer_214,Books,Education,1,500,500,Madurai,Cash
+10628,2025-07-02,Customer_102,Smartphone,Electronics,2,25000,50000,Salem,UPI
+10629,2025-03-31,Customer_8,Mouse,Accessories,3,800,2400,Trichy,Net Banking
+10630,2025-05-08,Customer_25,Watch,Accessories,5,3000,15000,Trichy,UPI
+10631,2025-01-07,Customer_16,Headphones,Electronics,1,2000,2000,Coimbatore,Cash
+10632,2025-07-10,Customer_176,Keyboard,Accessories,4,1200,4800,Erode,UPI
+10633,2025-05-13,Customer_235,Books,Education,5,500,2500,Chennai,UPI
+10634,2025-11-27,Customer_114,Smartphone,Electronics,2,25000,50000,Coimbatore,UPI
+10635,2025-01-22,Customer_242,Shoes,Fashion,1,1800,1800,,UPI
+10636,2025-08-10,Customer_211,Headphones,Electronics,5,2000,10000,,Net Banking
+10637,2025-07-15,Customer_175,Backpack,Bags,1,1500,1500,Trichy,Cash
+10638,2025-04-06,Customer_71,Shoes,Fashion,2,1800,3600,Madurai,Net Banking
+10639,2025-11-11,Customer_159,Headphones,Electronics,1,2000,2000,Salem,Cash
+10640,2025-07-30,Customer_226,Mouse,Accessories,4,800,3200,Salem,Net Banking
+10641,2025-05-24,Customer_99,Laptop,Electronics,1,55000,55000,Coimbatore,Net Banking
+10642,2025-05-08,Customer_162,Keyboard,Accessories,5,1200,6000,Salem,UPI
+10643,2025-09-03,Customer_140,T-Shirt,Fashion,3,700,2100,Trichy,Card
+10644,2025-06-14,Customer_100,Books,Education,5,500,2500,Madurai,Cash
+10645,2025-11-02,Customer_57,Laptop,Electronics,3,55000,165000,Chennai,Card
+10646,2025-09-29,Customer_92,Laptop,Electronics,4,55000,220000,Salem,Cash
+10647,2025-05-07,Customer_169,Headphones,Electronics,1,2000,2000,Coimbatore,Card
+10648,2025-04-23,Customer_148,Watch,Accessories,1,3000,3000,Trichy,Card
+10649,2025-05-02,Customer_152,Headphones,Electronics,2,2000,4000,Madurai,Card
+10650,2025-12-27,Customer_180,Books,Education,1,500,500,Madurai,Cash
+10651,2025-09-10,Customer_139,Books,Education,2,500,1000,Madurai,Cash
+10652,2025-02-16,Customer_15,Backpack,Bags,1,1500,1500,Coimbatore,Cash
+10653,2025-09-02,Customer_1,Laptop,Electronics,5,55000,275000,Madurai,Cash
+10654,2025-04-01,Customer_236,Headphones,Electronics,3,2000,6000,,UPI
+10655,2025-10-28,Customer_181,Laptop,Electronics,2,55000,110000,Coimbatore,UPI
+10656,2025-02-07,Customer_96,Watch,Accessories,3,3000,9000,Erode,Net Banking
+10657,2025-06-22,Customer_78,Books,Education,1,500,500,Madurai,Cash
+10658,2025-11-24,Customer_246,Headphones,Electronics,4,2000,8000,Trichy,Card
+10659,2025-12-22,Customer_228,Headphones,Electronics,5,2000,10000,Salem,Card
+10660,2025-03-31,Customer_97,Keyboard,Accessories,5,1200,6000,Madurai,Card
+10661,2025-01-01,Customer_243,Headphones,Electronics,2,2000,4000,Erode,Net Banking
+10662,2025-04-04,Customer_155,Books,Education,1,500,500,Madurai,Cash
+10663,2025-09-12,Customer_37,Books,Education,1,500,500,Madurai,UPI
+10664,2025-06-13,Customer_43,Keyboard,Accessories,3,1200,3600,Erode,UPI
+10665,2025-01-06,Customer_68,Shoes,Fashion,4,1800,7200,Coimbatore,Cash
+10666,2025-05-12,Customer_202,Smartphone,Electronics,3,25000,75000,Chennai,UPI
+10667,2025-08-13,Customer_188,Laptop,Electronics,4,55000,220000,Trichy,Cash
+10668,2025-07-13,Customer_90,T-Shirt,Fashion,4,700,2800,Salem,Net Banking
+10669,2025-10-23,Customer_167,Smartphone,Electronics,4,25000,100000,Erode,Cash
+10670,2025-02-07,Customer_205,Headphones,Electronics,4,2000,8000,Chennai,Card
+10671,2025-05-14,Customer_244,Laptop,Electronics,3,55000,165000,Chennai,UPI
+10672,2025-07-12,Customer_42,Shoes,Fashion,2,1800,3600,Erode,UPI
+10673,2025-06-23,Customer_153,Watch,Accessories,1,3000,3000,Salem,Net Banking
+10674,2025-12-01,Customer_43,Laptop,Electronics,4,55000,220000,Salem,Net Banking
+10675,2025-02-21,Customer_85,Headphones,Electronics,1,2000,2000,Coimbatore,
+10676,2025-10-04,Customer_68,T-Shirt,Fashion,5,700,3500,Erode,Card
+10677,2025-02-19,Customer_13,Mouse,Accessories,2,800,1600,Trichy,Net Banking
+10678,2025-07-04,Customer_1,Headphones,Electronics,1,2000,2000,Trichy,UPI
+10679,2025-09-03,Customer_52,Mouse,Accessories,5,800,4000,Chennai,UPI
+10680,2025-11-23,Customer_75,Keyboard,Accessories,2,1200,2400,Chennai,Net Banking
+10681,2025-07-23,Customer_121,Smartphone,Electronics,3,25000,75000,Trichy,Card
+10682,2025-07-18,Customer_48,Smartphone,Electronics,5,25000,125000,Madurai,Net Banking
+10683,2025-08-17,Customer_12,Shoes,Fashion,2,1800,3600,Madurai,Net Banking
+10684,2025-04-26,Customer_215,Backpack,Bags,3,1500,4500,Madurai,UPI
+10685,2025-02-13,Customer_172,Headphones,Electronics,1,2000,2000,Madurai,Net Banking
+10686,2025-10-11,Customer_16,Books,Education,2,500,1000,Trichy,Net Banking
+10687,2025-10-21,Customer_226,Watch,Accessories,4,3000,12000,Coimbatore,Net Banking
+10688,2025-07-22,Customer_232,Mouse,Accessories,1,800,800,Erode,UPI
+10689,2025-09-22,Customer_205,Watch,Accessories,5,3000,15000,Salem,Cash
+10690,2025-03-30,Customer_243,Smartphone,Electronics,4,25000,100000,Coimbatore,Cash
+10691,2025-01-22,Customer_109,Keyboard,Accessories,2,1200,2400,Chennai,Net Banking
+10692,2025-11-01,Customer_67,Keyboard,Accessories,2,1200,2400,Madurai,UPI
+10693,2025-10-12,Customer_102,Smartphone,Electronics,4,25000,100000,Salem,Card
+10694,2025-08-23,Customer_235,Mouse,Accessories,5,800,4000,Chennai,Net Banking
+10695,2025-03-18,Customer_38,Smartphone,Electronics,4,25000,100000,Salem,UPI
+10696,2025-02-21,Customer_202,Smartphone,Electronics,5,25000,125000,Madurai,Card
+10697,2025-07-16,Customer_168,T-Shirt,Fashion,3,700,2100,Trichy,Net Banking
+10698,2025-05-22,Customer_104,Laptop,Electronics,2,55000,110000,Coimbatore,Net Banking
+10699,2025-06-19,Customer_177,Laptop,Electronics,4,55000,220000,Coimbatore,UPI
+10700,2025-07-10,Customer_6,Backpack,Bags,3,1500,4500,Madurai,
+10701,2025-09-09,Customer_220,Mouse,Accessories,3,800,2400,Erode,UPI
+10702,2025-06-03,Customer_250,Keyboard,Accessories,2,1200,2400,Erode,Net Banking
+10703,2025-08-02,Customer_155,Shoes,Fashion,3,1800,5400,Erode,UPI
+10704,2025-04-19,Customer_234,Keyboard,Accessories,4,1200,4800,Trichy,Net Banking
+10705,2025-01-29,Customer_132,Watch,Accessories,3,3000,9000,Coimbatore,UPI
+10706,2025-07-26,Customer_35,Mouse,Accessories,5,800,4000,Salem,UPI
+10707,2025-04-13,Customer_215,Headphones,Electronics,2,2000,4000,Chennai,Cash
+10708,2025-01-26,Customer_236,Laptop,Electronics,4,55000,220000,Madurai,Cash
+10709,2025-08-26,Customer_130,Mouse,Accessories,3,800,2400,Trichy,UPI
+10710,2025-07-10,Customer_126,Laptop,Electronics,2,55000,110000,Salem,Net Banking
+10711,2025-10-28,Customer_142,Headphones,Electronics,4,2000,8000,Madurai,Card
+10712,2025-12-19,Customer_24,Headphones,Electronics,3,2000,6000,Madurai,UPI
+10713,2025-03-25,Customer_219,T-Shirt,Fashion,1,700,700,Salem,Cash
+10714,2025-12-13,Customer_53,Keyboard,Accessories,2,1200,2400,Madurai,Net Banking
+10715,2025-12-16,Customer_3,Watch,Accessories,1,3000,3000,Trichy,Cash
+10716,2025-01-05,Customer_58,Headphones,Electronics,5,2000,10000,Madurai,Card
+10717,2025-07-12,Customer_219,Mouse,Accessories,4,800,3200,Madurai,Net Banking
+10718,2025-08-27,Customer_78,Mouse,Accessories,2,800,1600,Erode,Net Banking
+10719,2025-01-04,Customer_131,Books,Education,1,500,500,Erode,Card
+10720,2025-11-08,Customer_73,Watch,Accessories,5,3000,15000,Madurai,UPI
+10721,2025-06-22,Customer_71,Backpack,Bags,1,1500,1500,Erode,Card
+10722,2025-12-02,Customer_183,Mouse,Accessories,3,800,2400,Erode,Card
+10723,2025-09-22,Customer_196,Keyboard,Accessories,2,1200,2400,Coimbatore,UPI
+10724,2025-12-05,Customer_82,Books,Education,4,500,2000,Erode,Cash
+10725,2025-06-01,Customer_67,Laptop,Electronics,4,55000,220000,Trichy,Net Banking
+10726,2025-10-26,Customer_182,T-Shirt,Fashion,1,700,700,Salem,Cash
+10727,2025-12-18,Customer_137,Shoes,Fashion,2,1800,3600,Erode,Net Banking
+10728,2025-06-03,Customer_217,Shoes,Fashion,5,1800,9000,Coimbatore,Cash
+10729,2025-08-30,Customer_33,Mouse,Accessories,1,800,800,Erode,Card
+10730,2025-12-15,Customer_231,Watch,Accessories,2,3000,6000,Madurai,UPI
+10731,2025-04-25,Customer_191,Keyboard,Accessories,3,1200,3600,Madurai,Net Banking
+10732,2025-05-14,Customer_150,Shoes,Fashion,3,1800,5400,Madurai,Net Banking
+10733,2025-01-28,Customer_222,Smartphone,Electronics,4,25000,100000,Erode,UPI
+10734,2025-09-14,Customer_31,Backpack,Bags,2,1500,3000,Erode,Net Banking
+10735,2025-07-31,Customer_14,Watch,Accessories,3,3000,9000,Coimbatore,Cash
+10736,2025-07-29,Customer_146,Keyboard,Accessories,3,1200,3600,Trichy,Cash
+10737,2025-02-11,Customer_125,Shoes,Fashion,2,1800,3600,Madurai,Cash
+10738,2025-01-03,Customer_116,Shoes,Fashion,1,1800,1800,Madurai,Cash
+10739,2025-03-23,Customer_126,Headphones,Electronics,5,2000,10000,Chennai,
+10740,2025-11-21,Customer_110,Books,Education,4,500,2000,Trichy,Net Banking
+10741,2025-01-03,Customer_10,Backpack,Bags,4,1500,6000,Salem,Cash
+10742,2025-06-14,Customer_194,Shoes,Fashion,1,1800,1800,Salem,Cash
+10743,2025-11-17,Customer_188,Laptop,Electronics,1,55000,55000,Coimbatore,Cash
+10744,2025-03-08,Customer_27,Shoes,Fashion,3,1800,5400,Trichy,Card
+10745,2025-01-24,Customer_77,Headphones,Electronics,1,2000,2000,Madurai,Net Banking
+10746,2025-09-26,Customer_87,Watch,Accessories,5,3000,15000,Trichy,Cash
+10747,2025-07-03,Customer_193,Shoes,Fashion,4,1800,7200,Coimbatore,Cash
+10748,2025-04-27,Customer_58,T-Shirt,Fashion,1,700,700,Erode,Cash
+10749,2025-10-29,Customer_130,Keyboard,Accessories,1,1200,1200,Coimbatore,UPI
+10750,2025-07-12,Customer_225,Shoes,Fashion,1,1800,1800,Erode,Card
+10751,2025-01-25,Customer_153,Watch,Accessories,5,3000,15000,Chennai,UPI
+10752,2025-12-20,Customer_30,Laptop,Electronics,1,55000,55000,,Net Banking
+10753,2025-10-08,Customer_65,T-Shirt,Fashion,1,700,700,Trichy,Cash
+10754,2025-06-04,Customer_108,Keyboard,Accessories,1,1200,1200,Erode,UPI
+10755,2025-11-15,Customer_156,Watch,Accessories,3,3000,9000,Erode,Cash
+10756,2025-09-19,Customer_185,T-Shirt,Fashion,1,700,700,Salem,UPI
+10757,2025-02-24,Customer_128,Mouse,Accessories,1,800,800,Coimbatore,Cash
+10758,2025-04-14,Customer_92,Mouse,Accessories,5,800,4000,Erode,Net Banking
+10759,2025-01-21,Customer_141,Mouse,Accessories,2,800,1600,Trichy,Cash
+10760,2025-05-01,Customer_1,Backpack,Bags,3,1500,4500,Chennai,UPI
+10761,2025-12-09,Customer_127,Smartphone,Electronics,5,25000,125000,Coimbatore,UPI
+10762,2025-02-21,Customer_232,Watch,Accessories,1,3000,3000,Madurai,Cash
+10763,2025-05-16,Customer_119,Backpack,Bags,3,1500,4500,Chennai,UPI
+10764,2025-05-29,Customer_93,Headphones,Electronics,1,2000,2000,Erode,Card
+10765,2025-02-18,Customer_218,T-Shirt,Fashion,1,700,700,Chennai,UPI
+10766,2025-06-18,Customer_92,Headphones,Electronics,2,2000,4000,Trichy,Card
+10767,2025-06-25,Customer_47,Smartphone,Electronics,3,25000,75000,Chennai,Net Banking
+10768,2025-05-20,Customer_214,T-Shirt,Fashion,4,700,2800,Trichy,Net Banking
+10769,2025-02-27,Customer_34,T-Shirt,Fashion,2,700,1400,Erode,UPI
+10770,2025-08-02,Customer_234,Headphones,Electronics,1,2000,2000,Salem,Net Banking
+10771,2025-04-03,Customer_157,Books,Education,4,500,2000,Trichy,Card
+10772,2025-12-17,Customer_226,Books,Education,1,500,500,Erode,Cash
+10773,2025-02-27,Customer_228,Backpack,Bags,4,1500,6000,Trichy,Net Banking
+10774,2025-05-14,Customer_168,Laptop,Electronics,1,55000,55000,Madurai,UPI
+10775,2025-10-17,Customer_58,Watch,Accessories,5,3000,15000,Erode,Card
+10776,2025-12-19,Customer_180,Watch,Accessories,5,3000,15000,Salem,UPI
+10777,2025-09-04,Customer_89,T-Shirt,Fashion,2,700,1400,Erode,Net Banking
+10778,2025-11-10,Customer_14,Headphones,Electronics,5,2000,10000,Chennai,Cash
+10779,2025-09-11,Customer_223,Watch,Accessories,4,3000,12000,Coimbatore,UPI
+10780,2025-05-04,Customer_85,Backpack,Bags,3,1500,4500,Madurai,UPI
+10781,2025-10-09,Customer_165,Watch,Accessories,2,3000,6000,Trichy,Net Banking
+10782,2025-08-24,Customer_114,Keyboard,Accessories,1,1200,1200,Salem,Net Banking
+10783,2025-08-17,Customer_81,Smartphone,Electronics,4,25000,100000,Chennai,Net Banking
+10784,2025-07-26,Customer_106,Laptop,Electronics,1,55000,55000,Chennai,UPI
+10785,2025-11-13,Customer_164,Smartphone,Electronics,5,25000,125000,Madurai,
+10786,2025-07-06,Customer_212,Backpack,Bags,3,1500,4500,Chennai,Cash
+10787,2025-10-14,Customer_197,Backpack,Bags,3,1500,4500,Salem,Net Banking
+10788,2025-02-28,Customer_25,Shoes,Fashion,4,1800,7200,Erode,Cash
+10789,2025-07-01,Customer_213,Laptop,Electronics,3,55000,165000,Erode,Card
+10790,2025-07-11,Customer_180,Watch,Accessories,5,3000,15000,Chennai,UPI
+10791,2025-03-13,Customer_211,Headphones,Electronics,4,2000,8000,Erode,Net Banking
+10792,2025-11-09,Customer_51,Smartphone,Electronics,3,25000,75000,Coimbatore,UPI
+10793,2025-08-23,Customer_212,T-Shirt,Fashion,2,700,1400,Coimbatore,Card
+10794,2025-01-24,Customer_238,Smartphone,Electronics,4,25000,100000,Erode,UPI
+10795,2025-12-04,Customer_151,Backpack,Bags,4,1500,6000,,Cash
+10796,2025-09-29,Customer_189,Backpack,Bags,1,1500,1500,Chennai,Net Banking
+10797,2025-09-18,Customer_200,Books,Education,4,500,2000,Coimbatore,Cash
+10798,2025-07-18,Customer_169,Headphones,Electronics,1,2000,2000,Salem,Card
+10799,2025-08-03,Customer_156,Watch,Accessories,4,3000,12000,Erode,Cash
+10800,2025-06-25,Customer_249,Mouse,Accessories,4,800,3200,Madurai,Net Banking
+10801,2025-07-31,Customer_155,Headphones,Electronics,2,2000,4000,Erode,Card
+10802,2025-12-31,Customer_189,Watch,Accessories,3,3000,9000,Salem,Cash
+10803,2025-11-16,Customer_183,Keyboard,Accessories,2,1200,2400,Madurai,Card
+10804,2025-09-15,Customer_139,Headphones,Electronics,2,2000,4000,Erode,Card
+10805,2025-10-15,Customer_123,Smartphone,Electronics,3,25000,75000,Salem,Net Banking
+10806,2025-08-05,Customer_207,Watch,Accessories,3,3000,9000,Chennai,UPI
+10807,2025-03-16,Customer_14,Laptop,Electronics,4,55000,220000,Erode,UPI
+10808,2025-03-24,Customer_74,Keyboard,Accessories,3,1200,3600,Erode,Card
+10809,2025-12-20,Customer_201,Headphones,Electronics,1,2000,2000,Madurai,Cash
+10810,2025-07-03,Customer_209,Watch,Accessories,1,3000,3000,Trichy,UPI
+10811,2025-04-25,Customer_191,Books,Education,5,500,2500,Erode,Net Banking
+10812,2025-12-23,Customer_74,Keyboard,Accessories,5,1200,6000,Erode,UPI
+10813,2025-08-02,Customer_245,T-Shirt,Fashion,4,700,2800,Erode,Card
+10814,2025-01-07,Customer_191,Watch,Accessories,1,3000,3000,Madurai,Cash
+10815,2025-04-26,Customer_234,Books,Education,4,500,2000,Erode,Card
+10816,2025-11-05,Customer_51,Books,Education,5,500,2500,Erode,Cash
+10817,2025-04-01,Customer_175,Mouse,Accessories,4,800,3200,Chennai,Cash
+10818,2025-03-03,Customer_97,Headphones,Electronics,5,2000,10000,Chennai,Net Banking
+10819,2025-05-16,Customer_34,Mouse,Accessories,5,800,4000,Coimbatore,Card
+10820,2025-08-27,Customer_182,Laptop,Electronics,3,55000,165000,Coimbatore,UPI
+10821,2025-11-02,Customer_14,Headphones,Electronics,3,2000,6000,Erode,Card
+10822,2025-10-09,Customer_92,Backpack,Bags,5,1500,7500,Chennai,Card
+10823,2025-04-05,Customer_134,Watch,Accessories,2,3000,6000,Chennai,Cash
+10824,2025-10-02,Customer_104,T-Shirt,Fashion,5,700,3500,Chennai,Card
+10825,2025-12-06,Customer_85,Keyboard,Accessories,2,1200,2400,Madurai,Card
+10826,2025-11-13,Customer_136,Mouse,Accessories,2,800,1600,Trichy,UPI
+10827,2025-08-17,Customer_62,Smartphone,Electronics,3,25000,75000,Erode,Cash
+10828,2025-07-15,Customer_235,Laptop,Electronics,3,55000,165000,Chennai,Net Banking
+10829,2025-05-25,Customer_7,Mouse,Accessories,5,800,4000,Salem,Card
+10830,2025-08-17,Customer_125,Watch,Accessories,5,3000,15000,Chennai,Card
+10831,2025-09-21,Customer_22,Keyboard,Accessories,3,1200,3600,Chennai,Cash
+10832,2025-01-04,Customer_161,Watch,Accessories,5,3000,15000,Chennai,Cash
+10833,2025-02-23,Customer_53,Keyboard,Accessories,4,1200,4800,Salem,Net Banking
+10834,2025-01-13,Customer_118,Smartphone,Electronics,2,25000,50000,Erode,Card
+10835,2025-02-07,Customer_14,Laptop,Electronics,1,55000,55000,Coimbatore,Card
+10836,2025-10-22,Customer_211,Watch,Accessories,1,3000,3000,Coimbatore,Card
+10837,2025-08-19,Customer_162,T-Shirt,Fashion,4,700,2800,Trichy,Net Banking
+10838,2025-07-19,Customer_173,Shoes,Fashion,1,1800,1800,Chennai,UPI
+10839,2025-10-27,Customer_12,Books,Education,1,500,500,Erode,
+10840,2025-02-24,Customer_75,Shoes,Fashion,5,1800,9000,,Card
+10841,2025-05-25,Customer_196,Books,Education,1,500,500,Trichy,Net Banking
+10842,2025-08-31,Customer_41,T-Shirt,Fashion,1,700,700,Salem,Cash
+10843,2025-10-07,Customer_76,Headphones,Electronics,4,2000,8000,Erode,Cash
+10844,2025-01-06,Customer_142,Mouse,Accessories,3,800,2400,Salem,Cash
+10845,2025-01-03,Customer_147,Smartphone,Electronics,1,25000,25000,Salem,Net Banking
+10846,2025-02-13,Customer_79,Watch,Accessories,5,3000,15000,Coimbatore,Card
+10847,2025-11-27,Customer_218,Keyboard,Accessories,4,1200,4800,Salem,Cash
+10848,2025-04-24,Customer_158,Headphones,Electronics,2,2000,4000,Madurai,Cash
+10849,2025-12-10,Customer_205,Smartphone,Electronics,2,25000,50000,Salem,UPI
+10850,2025-11-27,Customer_141,Watch,Accessories,4,3000,12000,Chennai,Card
+10851,2025-02-20,Customer_51,Smartphone,Electronics,3,25000,75000,Erode,Net Banking
+10852,2025-03-07,Customer_172,Shoes,Fashion,3,1800,5400,Erode,Cash
+10853,2025-11-14,Customer_18,Smartphone,Electronics,3,25000,75000,Coimbatore,Card
+10854,2025-06-18,Customer_158,Backpack,Bags,4,1500,6000,Erode,Card
+10855,2025-10-17,Customer_146,Books,Education,2,500,1000,Madurai,Card
+10856,2025-01-03,Customer_81,T-Shirt,Fashion,2,700,1400,Coimbatore,Cash
+10857,2025-07-04,Customer_35,T-Shirt,Fashion,3,700,2100,Erode,Card
+10858,2025-08-17,Customer_92,Backpack,Bags,4,1500,6000,Madurai,Net Banking
+10859,2025-03-31,Customer_166,Watch,Accessories,1,3000,3000,Salem,UPI
+10860,2025-10-03,Customer_51,Mouse,Accessories,2,800,1600,Madurai,UPI
+10861,2025-09-17,Customer_162,Smartphone,Electronics,1,25000,25000,Chennai,Net Banking
+10862,2025-01-19,Customer_142,Books,Education,2,500,1000,Madurai,Net Banking
+10863,2025-07-20,Customer_58,Headphones,Electronics,3,2000,6000,Salem,Card
+10864,2025-09-14,Customer_131,Headphones,Electronics,4,2000,8000,Chennai,Net Banking
+10865,2025-01-06,Customer_170,Shoes,Fashion,5,1800,9000,Coimbatore,Cash
+10866,2025-08-17,Customer_41,Watch,Accessories,2,3000,6000,Coimbatore,Cash
+10867,2025-01-21,Customer_57,Backpack,Bags,3,1500,4500,Trichy,Cash
+10868,2025-07-09,Customer_60,Smartphone,Electronics,3,25000,75000,Chennai,Cash
+10869,2025-07-18,Customer_121,Watch,Accessories,3,3000,9000,Trichy,UPI
+10870,2025-02-22,Customer_181,Laptop,Electronics,3,55000,165000,Salem,Card
+10871,2025-10-06,Customer_146,Mouse,Accessories,5,800,4000,Coimbatore,Net Banking
+10872,2025-10-28,Customer_168,T-Shirt,Fashion,3,700,2100,Chennai,Card
+10873,2025-09-22,Customer_104,T-Shirt,Fashion,2,700,1400,Madurai,Card
+10874,2025-11-06,Customer_2,Backpack,Bags,4,1500,6000,Salem,Cash
+10875,2025-04-28,Customer_20,Backpack,Bags,2,1500,3000,Salem,Card
+10876,2025-04-06,Customer_41,Keyboard,Accessories,2,1200,2400,Madurai,UPI
+10877,2025-06-19,Customer_185,Keyboard,Accessories,4,1200,4800,Chennai,Net Banking
+10878,2025-04-18,Customer_152,Backpack,Bags,4,1500,6000,,Net Banking
+10879,2025-01-23,Customer_33,Laptop,Electronics,2,55000,110000,Salem,Cash
+10880,2025-01-21,Customer_229,Headphones,Electronics,5,2000,10000,Salem,Cash
+10881,2025-05-13,Customer_237,Laptop,Electronics,2,55000,110000,Coimbatore,Net Banking
+10882,2025-11-23,Customer_5,Books,Education,5,500,2500,Erode,Card
+10883,2025-08-18,Customer_156,Smartphone,Electronics,2,25000,50000,Trichy,Net Banking
+10884,2025-07-30,Customer_154,Headphones,Electronics,2,2000,4000,Coimbatore,Cash
+10885,2025-05-16,Customer_43,Books,Education,5,500,2500,Erode,Card
+10886,2025-10-30,Customer_18,Backpack,Bags,5,1500,7500,Coimbatore,Net Banking
+10887,2025-02-25,Customer_5,T-Shirt,Fashion,2,700,1400,Coimbatore,Net Banking
+10888,2025-02-19,Customer_46,Headphones,Electronics,5,2000,10000,Trichy,UPI
+10889,2025-03-02,Customer_24,Watch,Accessories,5,3000,15000,Trichy,Cash
+10890,2025-01-01,Customer_230,Books,Education,5,500,2500,Erode,Net Banking
+10891,2025-07-09,Customer_224,Watch,Accessories,4,3000,12000,Chennai,Net Banking
+10892,2025-07-15,Customer_90,Keyboard,Accessories,4,1200,4800,Salem,UPI
+10893,2025-05-11,Customer_123,T-Shirt,Fashion,2,700,1400,Coimbatore,UPI
+10894,2025-10-06,Customer_105,Mouse,Accessories,5,800,4000,Madurai,Cash
+10895,2025-10-23,Customer_134,Laptop,Electronics,1,55000,55000,Chennai,UPI
+10896,2025-12-19,Customer_206,T-Shirt,Fashion,2,700,1400,Madurai,Net Banking
+10897,2025-03-21,Customer_110,Shoes,Fashion,1,1800,1800,Erode,Card
+10898,2025-08-05,Customer_145,Mouse,Accessories,5,800,4000,Madurai,Card
+10899,2025-07-31,Customer_142,T-Shirt,Fashion,2,700,1400,Salem,Net Banking
+10900,2025-10-14,Customer_143,Headphones,Electronics,3,2000,6000,Trichy,Card
+10901,2025-06-26,Customer_199,Mouse,Accessories,5,800,4000,Erode,Net Banking
+10902,2025-04-28,Customer_115,Headphones,Electronics,1,2000,2000,Erode,Cash
+10903,2025-09-18,Customer_103,Smartphone,Electronics,2,25000,50000,Madurai,UPI
+10904,2025-11-22,Customer_2,Headphones,Electronics,4,2000,8000,Chennai,Cash
+10905,2025-08-11,Customer_23,Backpack,Bags,5,1500,7500,,Card
+10906,2025-02-10,Customer_156,Keyboard,Accessories,3,1200,3600,Chennai,Net Banking
+10907,2025-12-02,Customer_134,T-Shirt,Fashion,5,700,3500,Madurai,UPI
+10908,2025-08-13,Customer_3,Headphones,Electronics,4,2000,8000,Coimbatore,Card
+10909,2025-11-03,Customer_131,Keyboard,Accessories,1,1200,1200,Salem,Cash
+10910,2025-12-12,Customer_10,Books,Education,2,500,1000,Madurai,Cash
+10911,2025-02-14,Customer_71,Laptop,Electronics,2,55000,110000,Trichy,Card
+10912,2025-10-28,Customer_52,T-Shirt,Fashion,4,700,2800,Salem,UPI
+10913,2025-10-09,Customer_73,Smartphone,Electronics,1,25000,25000,Erode,Card
+10914,2025-04-26,Customer_156,Shoes,Fashion,3,1800,5400,Coimbatore,Net Banking
+10915,2025-01-03,Customer_67,T-Shirt,Fashion,5,700,3500,Coimbatore,Net Banking
+10916,2025-10-14,Customer_19,Watch,Accessories,1,3000,3000,Salem,Card
+10917,2025-09-20,Customer_245,Shoes,Fashion,1,1800,1800,Madurai,Card
+10918,2025-10-16,Customer_124,Backpack,Bags,4,1500,6000,Coimbatore,Card
+10919,2025-10-28,Customer_221,Backpack,Bags,4,1500,6000,Chennai,Net Banking
+10920,2025-02-04,Customer_98,Smartphone,Electronics,3,25000,75000,Erode,Cash
+10921,2025-07-31,Customer_245,Keyboard,Accessories,3,1200,3600,Madurai,UPI
+10922,2025-05-28,Customer_24,Mouse,Accessories,2,800,1600,Trichy,Card
+10923,2025-04-02,Customer_122,Smartphone,Electronics,5,25000,125000,Madurai,Card
+10924,2025-05-18,Customer_47,Keyboard,Accessories,5,1200,6000,Erode,Cash
+10925,2025-05-01,Customer_189,Backpack,Bags,2,1500,3000,Coimbatore,Card
+10926,2025-04-14,Customer_214,Keyboard,Accessories,2,1200,2400,Coimbatore,Card
+10927,2025-03-03,Customer_236,Headphones,Electronics,1,2000,2000,Chennai,Net Banking
+10928,2025-10-05,Customer_246,Books,Education,1,500,500,Chennai,Net Banking
+10929,2025-06-11,Customer_127,Shoes,Fashion,5,1800,9000,Salem,Card
+10930,2025-09-19,Customer_72,Backpack,Bags,2,1500,3000,Trichy,Cash
+10931,2025-01-28,Customer_135,Books,Education,2,500,1000,Trichy,Net Banking
+10932,2025-09-15,Customer_89,Watch,Accessories,1,3000,3000,Trichy,Cash
+10933,2025-12-24,Customer_133,Backpack,Bags,1,1500,1500,Trichy,Card
+10934,2025-12-12,Customer_54,Laptop,Electronics,1,55000,55000,Trichy,UPI
+10935,2025-11-10,Customer_221,Shoes,Fashion,3,1800,5400,Madurai,Cash
+10936,2025-05-02,Customer_69,Watch,Accessories,3,3000,9000,Trichy,Card
+10937,2025-09-13,Customer_109,Shoes,Fashion,2,1800,3600,Coimbatore,Net Banking
+10938,2025-07-25,Customer_72,Shoes,Fashion,3,1800,5400,Trichy,Cash
+10939,2025-10-22,Customer_176,Books,Education,2,500,1000,Coimbatore,UPI
+10940,2025-10-12,Customer_111,Mouse,Accessories,2,800,1600,Trichy,Cash
+10941,2025-08-31,Customer_207,Headphones,Electronics,2,2000,4000,Chennai,Cash
+10942,2025-03-10,Customer_229,T-Shirt,Fashion,4,700,2800,Erode,Card
+10943,2025-05-09,Customer_144,Backpack,Bags,3,1500,4500,Salem,UPI
+10944,2025-12-20,Customer_42,T-Shirt,Fashion,1,700,700,Chennai,Cash
+10945,2025-11-19,Customer_25,Mouse,Accessories,4,800,3200,Trichy,Card
+10946,2025-07-04,Customer_144,Mouse,Accessories,3,800,2400,Salem,Card
+10947,2025-07-30,Customer_32,Shoes,Fashion,1,1800,1800,Madurai,Cash
+10948,2025-11-29,Customer_167,Books,Education,5,500,2500,Salem,Cash
+10949,2025-06-16,Customer_173,Mouse,Accessories,3,800,2400,Salem,Net Banking
+10950,2025-07-15,Customer_158,Backpack,Bags,1,1500,1500,Madurai,Net Banking
+10951,2025-11-24,Customer_207,Headphones,Electronics,2,2000,4000,Madurai,Net Banking
+10952,2025-07-27,Customer_218,Books,Education,5,500,2500,Chennai,UPI
+10953,2025-04-27,Customer_81,Headphones,Electronics,3,2000,6000,Madurai,Card
+10954,2025-11-27,Customer_102,Mouse,Accessories,5,800,4000,Madurai,Net Banking
+10955,2025-09-24,Customer_248,Shoes,Fashion,5,1800,9000,Trichy,Net Banking
+10956,2025-01-12,Customer_33,Headphones,Electronics,2,2000,4000,Erode,Cash
+10957,2025-04-18,Customer_43,Mouse,Accessories,1,800,800,Trichy,UPI
+10958,2025-08-31,Customer_141,Smartphone,Electronics,1,25000,25000,Chennai,UPI
+10959,2025-02-12,Customer_27,T-Shirt,Fashion,5,700,3500,Madurai,Cash
+10960,2025-06-08,Customer_59,Smartphone,Electronics,4,25000,100000,Coimbatore,Card
+10961,2025-03-09,Customer_135,Backpack,Bags,2,1500,3000,Coimbatore,UPI
+10962,2025-06-16,Customer_222,Laptop,Electronics,3,55000,165000,Trichy,Net Banking
+10963,2025-10-08,Customer_114,Watch,Accessories,3,3000,9000,Coimbatore,Cash
+10964,2025-08-22,Customer_162,Books,Education,5,500,2500,Erode,Net Banking
+10965,2025-06-08,Customer_233,Watch,Accessories,5,3000,15000,Madurai,Net Banking
+10966,2025-02-15,Customer_114,Watch,Accessories,2,3000,6000,Madurai,Card
+10967,2025-03-21,Customer_78,T-Shirt,Fashion,3,700,2100,Chennai,UPI
+10968,2025-06-26,Customer_74,Watch,Accessories,2,3000,6000,Trichy,UPI
+10969,2025-06-03,Customer_3,Backpack,Bags,4,1500,6000,Trichy,Card
+10970,2025-01-04,Customer_141,Books,Education,2,500,1000,Madurai,Cash
+10971,2025-08-12,Customer_102,T-Shirt,Fashion,5,700,3500,Coimbatore,Cash
+10972,2025-04-23,Customer_68,T-Shirt,Fashion,4,700,2800,Chennai,Net Banking
+10973,2025-11-10,Customer_207,Keyboard,Accessories,5,1200,6000,Erode,Card
+10974,2025-05-18,Customer_106,Mouse,Accessories,5,800,4000,Coimbatore,UPI
+10975,2025-05-29,Customer_29,Headphones,Electronics,2,2000,4000,Erode,Net Banking
+10976,2025-05-20,Customer_180,Books,Education,4,500,2000,Salem,Net Banking
+10977,2025-01-10,Customer_39,Keyboard,Accessories,3,1200,3600,Chennai,UPI
+10978,2025-05-25,Customer_69,Headphones,Electronics,1,2000,2000,Coimbatore,Net Banking
+10979,2025-02-16,Customer_39,Laptop,Electronics,2,55000,110000,Chennai,Net Banking
+10980,2025-08-04,Customer_80,Keyboard,Accessories,3,1200,3600,Trichy,Card
+10981,2025-06-19,Customer_21,Backpack,Bags,1,1500,1500,Coimbatore,UPI
+10982,2025-02-06,Customer_140,Mouse,Accessories,4,800,3200,Trichy,Cash
+10983,2025-07-15,Customer_213,Keyboard,Accessories,3,1200,3600,Chennai,UPI
+10984,2025-08-15,Customer_64,Keyboard,Accessories,4,1200,4800,Erode,UPI
+10985,2025-02-18,Customer_134,Keyboard,Accessories,4,1200,4800,Erode,Cash
+10986,2025-12-15,Customer_247,Backpack,Bags,4,1500,6000,Madurai,Card
+10987,2025-10-09,Customer_134,Headphones,Electronics,1,2000,2000,Chennai,Card
+10988,2025-04-12,Customer_93,Backpack,Bags,3,1500,4500,Chennai,Cash
+10989,2025-11-21,Customer_112,Smartphone,Electronics,2,25000,50000,Madurai,UPI
+10990,2025-10-27,Customer_31,Headphones,Electronics,3,2000,6000,Trichy,Cash
+10991,2025-10-25,Customer_201,Laptop,Electronics,1,55000,55000,Erode,
+10992,2025-07-10,Customer_198,Books,Education,2,500,1000,Chennai,Cash
+10993,2025-02-16,Customer_176,Headphones,Electronics,4,2000,8000,Salem,Card
+10994,2025-07-02,Customer_166,Laptop,Electronics,1,55000,55000,Coimbatore,UPI
+10995,2025-04-30,Customer_82,Headphones,Electronics,4,2000,8000,Salem,Card
+10996,2025-01-11,Customer_177,Backpack,Bags,2,1500,3000,Trichy,Card
+10997,2025-01-21,Customer_125,Headphones,Electronics,3,2000,6000,Erode,Net Banking
+10998,2025-10-05,Customer_179,Watch,Accessories,3,3000,9000,Trichy,Cash
+10999,2025-10-06,Customer_90,Books,Education,2,500,1000,Madurai,Net Banking
+11000,2025-10-11,Customer_42,Mouse,Accessories,5,800,4000,Chennai,Cash
+10001,2025-05-21,Customer_63,Smartphone,Electronics,1,25000,25000,,Cash
+10002,2025-02-14,Customer_152,Smartphone,Electronics,5,25000,125000,Trichy,UPI
+10003,2025-04-22,Customer_60,Laptop,Electronics,1,55000,55000,Salem,UPI
+10004,2025-11-29,Customer_180,Watch,Accessories,2,3000,6000,Salem,Net Banking
+10005,2025-10-29,Customer_72,Keyboard,Accessories,4,1200,4800,Chennai,Cash
+10006,2025-05-23,Customer_40,T-Shirt,Fashion,3,700,2100,Coimbatore,Card
+10007,2025-07-14,Customer_25,Smartphone,Electronics,1,25000,25000,Madurai,Card
+10008,2025-01-23,Customer_187,Books,Education,3,500,1500,Trichy,UPI
+10009,2025-10-10,Customer_76,T-Shirt,Fashion,1,700,700,Erode,Card
+10010,2025-12-27,Customer_18,Books,Education,2,500,1000,Chennai,Cash
